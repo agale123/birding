@@ -18,15 +18,7 @@ let logo;
 let images = [];
 
 function preload() {
-  // Load and parse CBC data from CSV file
-  loadCBCData("data/CBC_GraysHarbor.csv", (_data) => {
-    cbcData = _data;
-    // CBC years are stored as 2-digit numbers (e.g., 124 for 2024)
-    firstYear =
-      1900 + parseInt(cbcData.effort.get(cbcData.effort.getRowCount() - 1, 0));
-    lastYear = 1900 + parseInt(cbcData.effort.get(0, 0));
-    currentYear = firstYear;
-  });
+  cbcData = loadJSON("data/CBC_GraysHarbor_WesternSandpiper.json");
 
   font = loadFont("/font/univers67condensedbold.otf");
   writingFont = loadFont("/font/ShadowsIntoLight-Regular.ttf");
@@ -41,6 +33,11 @@ function preload() {
 
 function setup() {
   createCanvas(W, H, WEBGL);
+
+  const years = Object.keys(cbcData);
+  firstYear = parseInt(years[0]);
+  lastYear = parseInt(years[years.length - 1]);
+  currentYear = firstYear;
 
   // Each bird model represents a step in the wing flap cycle.
   for (let i = 0; i < WING_STEPS; i++) {
@@ -79,7 +76,7 @@ function draw() {
     {
       push();
       texture(logo);
-      translate(W - 40, 80, -100);
+      translate(W - 15, 70, -100);
       plane(200);
       pop();
     }
@@ -151,7 +148,7 @@ function draw() {
 
 function updateBirdList() {
   birds = [];
-  const count = cbcData.birdMap[BIRD][currentYear]?.howMany || 0;
+  const count = cbcData[currentYear]?.howMany || 0;
   for (let i = 0; i < count; i++) {
     birds.push(
       getRandomPointInSphere(
