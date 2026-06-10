@@ -1,0 +1,16 @@
+{
+  "name": "wheel-of-sound",
+  "version": "0.1.0",
+  "description": "eBird and xeno-canto bird sound explorer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
