@@ -1,0 +1,109 @@
+Species,Color_1,Color_2,Color_3
+Rufous Hummingbird,#B87333,#FFFFFF,#2E8B57
+Blue-winged Teal,#4682B4,#556B2F,#FFFFFF
+Mourning Dove,#BDB76B,#E9967A,#708090
+Pelagic Cormorant,#000000,#000080,#4B0082
+Rough-legged Hawk,#F5F5DC,#8B4513,#2F4F4F
+Northern Rough-winged Swallow,#8B7355,#F5F5F5,#D2B48C
+Chipping Sparrow,#8B4513,#D3D3D3,#A52A2A
+Pine Siskin,#6B8E23,#F0E68C,#422212
+Sora,#708090,#F5DEB3,#2F4F4F
+California Scrub-Jay,#4169E1,#DCDCDC,#696969
+White-throated Sparrow,#8B4513,#FFFFFF,#FFFF00
+Greater Yellowlegs,#696969,#FFFFFF,#C0C0C0
+Northern Pintail,#8B4513,#FFFFFF,#2F4F4F
+Orange-crowned Warbler,#9ACD32,#ADFF2F,#808000
+Cackling Goose,#000000,#FFFFFF,#8B4513
+Redhead,#A52A2A,#808080,#000000
+Red-breasted Merganser,#2F4F4F,#A52A2A,#FFFFFF
+Hairy Woodpecker,#000000,#FFFFFF,#FF0000
+Brewer's Blackbird,#000000,#4B0082,#006400
+Hermit Thrush,#8B4513,#F5F5DC,#D2B48C
+Pacific Wren,#4B3621,#8B4513,#6F4E37
+Common Raven,#000000,#050505,#0A0A0A
+Horned Grebe,#000000,#A52A2A,#FFFFFF
+Red-necked Grebe,#808080,#A52A2A,#FFFFFF
+Belted Kingfisher,#4682B4,#FFFFFF,#8B4513
+American Herring Gull,#FFFFFF,#808080,#FFD700
+Ring-billed Gull,#FFFFFF,#A9A9A9,#FFFF00
+American Pipit,#D2B48C,#8B7D6B,#F5F5DC
+Brown-headed Cowbird,#000000,#3D2B1F,#1A1A1A
+Ruddy Duck,#8B4513,#ADD8E6,#000000
+Turkey Vulture,#2B2B2B,#8B0000,#C0C0C0
+Hutton's Vireo,#808000,#F0E68C,#F5F5DC
+Red-breasted Nuthatch,#4682B4,#E9967A,#000000
+Red-tailed Hawk,#8B4513,#F5F5DC,#D2B48C
+Red-breasted Sapsucker,#FF0000,#000000,#FFFFFF
+Purple Finch,#800020,#D87093,#F5F5F5
+Peregrine Falcon,#474747,#F5F5DC,#2F4F4F
+Brown Creeper,#8B4513,#F5F5DC,#A9A9A9
+Green-winged Teal,#006400,#8B4513,#808080
+Common Goldeneye,#FFFFFF,#000000,#006400
+Band-tailed Pigeon,#708090,#E6E6FA,#4B0082
+Caspian Tern,#FFFFFF,#000000,#FF4500
+Merlin,#4F4F4F,#D2B48C,#8B4513
+Cliff Swallow,#000080,#8B4513,#FFFFFF
+Cedar Waxwing,#8B7355,#FFFF00,#FF4500
+Steller's Jay,#000080,#000000,#ADD8E6
+Long-billed Dowitcher,#8B4513,#D2B48C,#808080
+Barn Swallow,#000080,#A52A2A,#F5DEB3
+Fox Sparrow,#8B0000,#808080,#F5F5DC
+Canvasback,#FFFFFF,#A52A2A,#000000
+Lesser Scaup,#FFFFFF,#000000,#808080
+Eurasian Collared-Dove,#D3D3D3,#000000,#F5F5F5
+Short-billed Gull,#FFFFFF,#A9A9A9,#FFFF00
+California Gull,#FFFFFF,#808080,#FFFF00
+Osprey,#FFFFFF,#4B3621,#000000
+Lincoln's Sparrow,#8B7355,#D3D3D3,#4B3621
+Common Yellowthroat,#808000,#FFFF00,#000000
+American Wigeon,#F5DEB3,#006400,#FFFFFF
+Greater Scaup,#FFFFFF,#000000,#006400
+Glaucous-winged Gull,#FFFFFF,#C0C0C0,#FFD700
+Cooper's Hawk,#8B4513,#808080,#F5F5DC
+Hooded Merganser,#000000,#FFFFFF,#8B4513
+Wilson's Snipe,#5D4037,#D2B48C,#FFFFFF
+Green Heron,#2F4F4F,#8B4513,#4682B4
+Say's Phoebe,#8B8589,#E9967A,#363636
+Canada Goose,#000000,#FFFFFF,#8B4513
+Wood Duck,#006400,#800000,#FFFFFF
+Northern Shoveler,#006400,#A52A2A,#FFFFFF
+Gadwall,#808080,#8B4513,#000000
+Mallard,#008080,#8B4513,#808080
+Ring-necked Duck,#000000,#808080,#FFFFFF
+Bufflehead,#FFFFFF,#000000,#4B0082
+Common Merganser,#FFFFFF,#000000,#006400
+Rock Pigeon,#808080,#4B0082,#008000
+Anna's Hummingbird,#006400,#C71585,#808080
+Virginia Rail,#A52A2A,#708090,#000000
+American Coot,#2F2F2F,#363636,#3D3D3D
+Killdeer,#8B4513,#FFFFFF,#000000
+Pied-billed Grebe,#8B7D6B,#000000,#F5F5DC
+Double-crested Cormorant,#1A1A1A,#000000,#FFA500
+Great Blue Heron,#708090,#FFFFFF,#000000
+Bald Eagle,#4B3621,#FFFFFF,#FFD700
+Downy Woodpecker,#000000,#FFFFFF,#FF0000
+Pileated Woodpecker,#000000,#FFFFFF,#FF0000
+Northern Flicker,#D2B48C,#000000,#FF4500
+American Crow,#000000,#080808,#121212
+Black-capped Chickadee,#000000,#FFFFFF,#808080
+Chestnut-backed Chickadee,#8B4513,#808080,#FFFFFF
+Tree Swallow,#0000FF,#FFFFFF,#000000
+Violet-green Swallow,#006400,#FFFFFF,#4B0082
+Bushtit,#808080,#D3D3D3,#F5F5DC
+Ruby-crowned Kinglet,#556B2F,#FFFFFF,#FF0000
+Golden-crowned Kinglet,#556B2F,#FFFF00,#FF4500
+Marsh Wren,#8B4513,#F5F5DC,#000000
+Bewick's Wren,#8B7355,#FFFFFF,#A9A9A9
+European Starling,#000000,#4B0082,#006400
+American Robin,#8B4513,#FF4500,#708090
+House Sparrow,#8B4513,#808080,#000000
+House Finch,#A52A2A,#8B4513,#F5F5DC
+American Goldfinch,#FFFF00,#000000,#FFFFFF
+Dark-eyed Junco,#4F4F4F,#FFFFFF,#8B4513
+White-crowned Sparrow,#808080,#000000,#FFFFFF
+Golden-crowned Sparrow,#808080,#FFFF00,#000000
+Savannah Sparrow,#8B7355,#F5F5DC,#FFFF00
+Song Sparrow,#8B4513,#D3D3D3,#4B3621
+Spotted Towhee,#000000,#FF4500,#FFFFFF
+Red-winged Blackbird,#000000,#FF0000,#FFFF00
+Yellow-rumped Warbler,#808080,#FFFF00,#FFFFFF
