@@ -4,7 +4,7 @@
 // 1. binstobins.com
 // 2. https://YOURPROJECTNAME.binstobins.online/
 
-let apiKey = "AIzaSyCYr97ie7T67sadKXOhrndJkFTujOaJrQ4";
+let apiKey = "";
 let baseURL = "https://maps.googleapis.com/maps/api/staticmap?";
 
 // Note that this can cost $$ if you get A LOT of traffic.
