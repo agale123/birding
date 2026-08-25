@@ -34,15 +34,18 @@ const BIRDS = [
   "Orange-crowned Warbler",
 ];
 
-const H = 1200;
-const W = 800;
+const H = 800;
+const W = 1200;
 const PADDING = 50;
-const R = 25;
+const R = 40;
+const INTERVAL = 30;
 
 const IMAGES = {};
 const SOUNDS = {};
+const AMPLITUDES = {};
 const POSITIONS = {};
 const SELECTED = {};
+const INTERVALS = {};
 
 function format(bird) {
   return bird
@@ -55,41 +58,46 @@ function format(bird) {
 function preload() {
   for (const bird of BIRDS) {
     IMAGES[bird] = loadImage("/photos/" + format(bird) + ".png");
-    SOUNDS[bird] = loadSound("/audio/" + "willowflycatcher" + ".mp3");
+    SOUNDS[bird] = loadSound("/audio/" + format(bird) + ".mp3");
     SELECTED[bird] = false;
+    AMPLITUDES[bird] = new p5.Amplitude();
+    AMPLITUDES[bird].setInput(SOUNDS[bird]);
   }
 }
 
 function setup() {
   createCanvas(W, H);
   background("#fafafa");
+
+  for (let i = 0; i < BIRDS.length; i++) {
+    const x = PADDING + R + ((i % 8) * (W - 2 * PADDING - 2 * R)) / 7;
+    const y = PADDING + R + (Math.floor(i / 8) * (H - 2 * PADDING - 2 * R)) / 3;
+    POSITIONS[BIRDS[i]] = [x, y];
+  }
 }
 
 function draw() {
   background("#fafafa");
 
   for (let i = 0; i < BIRDS.length; i++) {
-    drawBirdLine(i);
+    drawBird(i);
   }
 }
 
-function drawBirdLine(i) {
+function drawBird(i) {
   push();
-  const x = PADDING + (sin((PI * 2 * i * 8) / BIRDS.length) + 1) * 50;
-  const y = PADDING + ((H - 2 * PADDING) * i) / (BIRDS.length - 1);
-  POSITIONS[BIRDS[i]] = [x, y];
+
+  const [x, y] = POSITIONS[BIRDS[i]];
   translate(x, y);
 
   // Bird name
   {
     push();
-    translate(30, -2);
+    translate(0, R + 10);
+    textAlign(CENTER, TOP);
     text(BIRDS[i], 0, 0);
     pop();
   }
-
-  // Baseline
-  line(0, 0, W - x - PADDING, 0);
 
   // Image
   {
@@ -106,9 +114,10 @@ function drawBirdLine(i) {
     push();
 
     if (SELECTED[BIRDS[i]]) {
-      stroke("black");
+      strokeWeight(map(AMPLITUDES[BIRDS[i]].getLevel(), 0, 1, 1, 20));
+      stroke("darkolivegreen");
       fill(0, 0, 0, 0);
-      circle(0, 0, R*2 + 5);
+      circle(0, 0, R * 2 + 10);
     }
     pop();
   }
@@ -123,9 +132,14 @@ function mousePressed() {
     if (collidePointCircle(mouseX, mouseY, birdX, birdY, R * 2)) {
       SELECTED[bird] = !SELECTED[bird];
       if (SELECTED[bird]) {
-        SOUNDS[bird].loop();
+        SOUNDS[bird].play();
+        INTERVALS[bird] = setInterval(() => {
+          SOUNDS[bird].play();
+        }, INTERVAL * 1000);
       } else {
-        SOUNDS[bird].pause();
+        SOUNDS[bird].stop();
+        clearInterval(INTERVALS[bird]);
+        INTERVALS[bird] = undefined;
       }
       return;
     }
