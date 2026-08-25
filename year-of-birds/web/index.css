@@ -1,0 +1,83 @@
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+main {
+  height: 100%;
+}
+
+button {
+  height: 40px;
+  width: 40px;
+}
+
+/* Photo carousel styles */
+ul {
+  width: 100%;
+  height: 100%;
+  padding: 30px 20px;
+  display: flex;
+  gap: 4vw;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  anchor-name: --my-carousel;
+  scroll-marker-group: after;
+}
+
+li {
+  list-style-type: none;
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+}
+
+li > img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+ul::scroll-marker-group {
+  position: absolute;
+  position-anchor: --my-carousel;
+  top: calc(anchor(bottom) - 20px);
+  justify-self: anchor-center;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+li::scroll-marker {
+  content: attr(data-accName);
+  width: 12px;
+  height: 12px;
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 50%;
+  overflow: hidden;
+  text-indent: 12px;
+}
+
+li::scroll-marker:target-current {
+  background-color: black;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.missing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.missing > img {
+  width: 30%;
+  opacity: 90%;
+}
