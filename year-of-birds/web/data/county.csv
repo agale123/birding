@@ -1,0 +1,765 @@
+state,county,name,observations,count
+US-CA,Alameda,American Avocet,1,9
+US-CA,Alameda,American Crow,2,10
+US-CA,Alameda,Anna's Hummingbird,1,1
+US-CA,Alameda,Barn Swallow,1,1
+US-CA,Alameda,Black Oystercatcher,1,2
+US-CA,Alameda,Black Phoebe,2,7
+US-CA,Alameda,Black-bellied Plover,1,10
+US-CA,Alameda,Black-crowned Night Heron,1,4
+US-CA,Alameda,Brown Pelican,2,8
+US-CA,Alameda,Brown-headed Cowbird,1,1
+US-CA,Alameda,Bushtit,1,5
+US-CA,Alameda,California Towhee,2,5
+US-CA,Alameda,Canada Goose,1,2
+US-CA,Alameda,Caspian Tern,2,3
+US-CA,Alameda,Cliff Swallow,1,1
+US-CA,Alameda,Double-crested Cormorant,2,3
+US-CA,Alameda,European Starling,2,34
+US-CA,Alameda,Great Blue Heron,1,5
+US-CA,Alameda,House Finch,2,21
+US-CA,Alameda,House Sparrow,1,1
+US-CA,Alameda,Killdeer,1,3
+US-CA,Alameda,Long-billed Curlew,1,1
+US-CA,Alameda,Mallard,1,10
+US-CA,Alameda,Marbled Godwit,1,20
+US-CA,Alameda,Northern Mockingbird,1,2
+US-CA,Alameda,Orange-crowned Warbler,1,1
+US-CA,Alameda,Red-winged Blackbird,1,5
+US-CA,Alameda,Rock Pigeon,1,8
+US-CA,Alameda,Rock Pigeon (Feral Pigeon),1,10
+US-CA,Alameda,Savannah Sparrow,1,3
+US-CA,Alameda,Snowy Egret,2,8
+US-CA,Alameda,Song Sparrow,2,3
+US-CA,Alameda,Spotted Towhee,1,1
+US-CA,Alameda,Tree Swallow,1,1
+US-CA,Alameda,Western Gull,1,2
+US-CA,Alameda,White-crowned Sparrow,2,4
+US-CA,Siskiyou,American Robin,1,1
+US-CA,Siskiyou,Brewer's Blackbird,1,1
+US-CA,Siskiyou,Cedar Waxwing,1,1
+US-CA,Siskiyou,Lesser Goldfinch,1,1
+US-CA,Siskiyou,Ring-billed Gull,1,30
+US-HI,Kauai,American Barn Owl,1,1
+US-HI,Kauai,Black-crowned Night Heron,1,2
+US-HI,Kauai,Black-necked Stilt,2,8
+US-HI,Kauai,Brown Booby,1,1
+US-HI,Kauai,Chestnut Munia,1,1
+US-HI,Kauai,Common Gallinule,2,5
+US-HI,Kauai,Common Myna,5,31
+US-HI,Kauai,Dunlin,1,1
+US-HI,Kauai,Erckel's Spurfowl,1,1
+US-HI,Kauai,Great Frigatebird,1,1
+US-HI,Kauai,Hawaiian Coot,1,3
+US-HI,Kauai,Hawaiian Duck,2,2
+US-HI,Kauai,Hawaiian Goose,4,12
+US-HI,Kauai,House Finch,2,2
+US-HI,Kauai,House Sparrow,4,27
+US-HI,Kauai,Java Sparrow,2,9
+US-HI,Kauai,Laysan Albatross,1,1
+US-HI,Kauai,Northern Cardinal,3,5
+US-HI,Kauai,Northern Mockingbird,2,2
+US-HI,Kauai,Pacific Golden-Plover,3,5
+US-HI,Kauai,Red-crested Cardinal,5,9
+US-HI,Kauai,Red-footed Booby,1,1
+US-HI,Kauai,Red-tailed Tropicbird,1,1
+US-HI,Kauai,Rock Pigeon (Feral Pigeon),1,1
+US-HI,Kauai,Rose-ringed Parakeet,1,1
+US-HI,Kauai,Ruddy Turnstone,1,8
+US-HI,Kauai,Saffron Finch,1,2
+US-HI,Kauai,Sanderling,1,1
+US-HI,Kauai,Scaly-breasted Munia,2,5
+US-HI,Kauai,Spotted Dove,2,5
+US-HI,Kauai,Wandering Tattler,1,1
+US-HI,Kauai,Warbling White-eye,2,4
+US-HI,Kauai,Wedge-tailed Shearwater,1,1
+US-HI,Kauai,Western Cattle-Egret,3,7
+US-HI,Kauai,White-rumped Shama,3,3
+US-HI,Kauai,White-tailed Tropicbird,1,3
+US-HI,Kauai,Zebra Dove,4,28
+US-OR,Deschutes,American Robin,1,3
+US-OR,Deschutes,Bullock's Oriole,1,1
+US-OR,Deschutes,California Quail,1,8
+US-OR,Deschutes,Evening Grosbeak,1,1
+US-OR,Deschutes,Lazuli Bunting,1,1
+US-OR,Deschutes,Mallard,1,3
+US-OR,Deschutes,Osprey,1,1
+US-OR,Deschutes,Pine Siskin,1,1
+US-OR,Deschutes,Red-tailed Hawk,1,1
+US-OR,Deschutes,Say's Phoebe,1,1
+US-OR,Deschutes,Turkey Vulture,1,4
+US-OR,Deschutes,Violet-green Swallow,1,5
+US-OR,Deschutes,Western Kingbird,1,1
+US-OR,Deschutes,White-throated Swift,1,5
+US-OR,Klamath,Canada Jay,1,1
+US-OR,Klamath,Cassin's Finch,1,1
+US-OR,Klamath,Clark's Nutcracker,1,1
+US-OR,Klamath,Western Tanager,1,1
+US-WA,Adams,American Coot,1,50
+US-WA,Adams,American Crow,1,4
+US-WA,Adams,American Kestrel,1,1
+US-WA,Adams,American Robin,1,3
+US-WA,Adams,Brewer's Blackbird,1,1
+US-WA,Adams,Brown-headed Cowbird,1,3
+US-WA,Adams,Bufflehead,1,2
+US-WA,Adams,Canada Goose,1,100
+US-WA,Adams,Canyon Wren,1,1
+US-WA,Adams,Eurasian Collared-Dove,1,1
+US-WA,Adams,Great Blue Heron,1,1
+US-WA,Adams,Great Horned Owl,1,1
+US-WA,Adams,Green-winged Teal,1,2
+US-WA,Adams,House Finch,1,2
+US-WA,Adams,Killdeer,1,1
+US-WA,Adams,Long-billed Curlew,1,1
+US-WA,Adams,Marsh Wren,1,1
+US-WA,Adams,Northern Flicker,2,2
+US-WA,Adams,Northern Pintail,1,1
+US-WA,Adams,Red-tailed Hawk,2,2
+US-WA,Adams,Red-winged Blackbird,2,9
+US-WA,Adams,Sandhill Crane,1,20
+US-WA,Adams,Snow Goose,1,1
+US-WA,Adams,Tricolored Blackbird,1,1
+US-WA,Adams,Western Meadowlark,1,1
+US-WA,Adams,Wilson's Snipe,1,4
+US-WA,Adams,Yellow-headed Blackbird,1,1
+US-WA,Clallam,American Crow,8,28
+US-WA,Clallam,American Robin,7,11
+US-WA,Clallam,American Wigeon,4,97
+US-WA,Clallam,Anna's Hummingbird,5,8
+US-WA,Clallam,Bald Eagle,10,29
+US-WA,Clallam,Band-tailed Pigeon,1,3
+US-WA,Clallam,Barn Swallow,4,6
+US-WA,Clallam,Barred Owl,1,1
+US-WA,Clallam,Belted Kingfisher,7,12
+US-WA,Clallam,Black Oystercatcher,4,14
+US-WA,Clallam,Black Turnstone,3,10
+US-WA,Clallam,Black-bellied Plover,6,61
+US-WA,Clallam,Black-capped Chickadee,3,7
+US-WA,Clallam,Brandt's Cormorant,1,7
+US-WA,Clallam,Brant,3,670
+US-WA,Clallam,Brewer's Blackbird,1,4
+US-WA,Clallam,Brown Creeper,1,2
+US-WA,Clallam,Brown-headed Cowbird,2,3
+US-WA,Clallam,Bufflehead,7,60
+US-WA,Clallam,Bushtit,1,3
+US-WA,Clallam,California Quail,1,2
+US-WA,Clallam,Canada Goose,8,20
+US-WA,Clallam,Caspian Tern,1,2
+US-WA,Clallam,Chestnut-backed Chickadee,3,4
+US-WA,Clallam,Cinnamon Teal,1,2
+US-WA,Clallam,Common Goldeneye,1,1
+US-WA,Clallam,Common Loon,3,6
+US-WA,Clallam,Common Merganser,7,13
+US-WA,Clallam,Common Murre,2,3
+US-WA,Clallam,Common Raven,4,5
+US-WA,Clallam,Common Yellowthroat,1,1
+US-WA,Clallam,Cooper's Hawk,2,2
+US-WA,Clallam,Dark-eyed Junco,1,1
+US-WA,Clallam,Double-crested Cormorant,2,3
+US-WA,Clallam,Dunlin,1,20
+US-WA,Clallam,Eurasian Wigeon,1,2
+US-WA,Clallam,European Starling,2,3
+US-WA,Clallam,Gadwall,1,4
+US-WA,Clallam,Glaucous-winged Gull,2,2
+US-WA,Clallam,Golden-crowned Sparrow,1,1
+US-WA,Clallam,Great Blue Heron,8,22
+US-WA,Clallam,Greater Yellowlegs,4,5
+US-WA,Clallam,Green-winged Teal,7,56
+US-WA,Clallam,Harlequin Duck,5,25
+US-WA,Clallam,Hooded Merganser,3,4
+US-WA,Clallam,Horned Grebe,3,7
+US-WA,Clallam,House Finch,2,3
+US-WA,Clallam,Hudsonian Whimbrel,1,1
+US-WA,Clallam,Killdeer,7,17
+US-WA,Clallam,Least Sandpiper,1,2
+US-WA,Clallam,Lesser Scaup,1,1
+US-WA,Clallam,Long-billed Dowitcher,1,5
+US-WA,Clallam,Long-tailed Duck,1,4
+US-WA,Clallam,Mallard,8,26
+US-WA,Clallam,Marbled Murrelet,2,3
+US-WA,Clallam,Marsh Wren,1,4
+US-WA,Clallam,Mourning Dove,2,3
+US-WA,Clallam,Northern Flicker,2,3
+US-WA,Clallam,Northern Harrier,2,2
+US-WA,Clallam,Northern Pintail,2,4
+US-WA,Clallam,Northern Rough-winged Swallow,2,3
+US-WA,Clallam,Northern Shoveler,1,2
+US-WA,Clallam,Orange-crowned Warbler,3,6
+US-WA,Clallam,Pacific Loon,1,1
+US-WA,Clallam,Pelagic Cormorant,6,19
+US-WA,Clallam,Pied-billed Grebe,1,1
+US-WA,Clallam,Pigeon Guillemot,4,11
+US-WA,Clallam,Purple Finch,2,2
+US-WA,Clallam,Purple Martin,1,4
+US-WA,Clallam,Red Crossbill,1,2
+US-WA,Clallam,Red-breasted Merganser,5,20
+US-WA,Clallam,Red-breasted Nuthatch,1,1
+US-WA,Clallam,Red-necked Grebe,4,5
+US-WA,Clallam,Red-tailed Hawk,2,2
+US-WA,Clallam,Red-throated Loon,1,2
+US-WA,Clallam,Red-winged Blackbird,3,11
+US-WA,Clallam,Rhinoceros Auklet,2,7
+US-WA,Clallam,Ring-necked Duck,1,1
+US-WA,Clallam,Rock Pigeon (Feral Pigeon),3,25
+US-WA,Clallam,Ruby-crowned Kinglet,1,1
+US-WA,Clallam,Rufous Hummingbird,1,2
+US-WA,Clallam,Sanderling,2,31
+US-WA,Clallam,Savannah Sparrow,3,4
+US-WA,Clallam,Short-billed Dowitcher,2,4
+US-WA,Clallam,Short-billed Gull,3,7
+US-WA,Clallam,Song Sparrow,4,7
+US-WA,Clallam,Spotted Sandpiper,1,1
+US-WA,Clallam,Spotted Towhee,1,2
+US-WA,Clallam,Surf Scoter,8,53
+US-WA,Clallam,Surfbird,1,1
+US-WA,Clallam,Tree Swallow,2,5
+US-WA,Clallam,Turkey Vulture,1,7
+US-WA,Clallam,Violet-green Swallow,4,9
+US-WA,Clallam,Western Grebe,1,4
+US-WA,Clallam,Western Sandpiper,1,10
+US-WA,Clallam,White-crowned Sparrow,5,10
+US-WA,Clallam,White-winged Scoter,3,13
+US-WA,Clallam,Wilson's Snipe,2,7
+US-WA,Clallam,Wood Duck,1,1
+US-WA,Clallam,Yellow-rumped Warbler,2,6
+US-WA,Franklin,American White Pelican,1,3
+US-WA,Franklin,Bald Eagle,1,1
+US-WA,Franklin,Canada Goose,1,3
+US-WA,Franklin,Common Goldeneye,1,3
+US-WA,Franklin,Northern Flicker,1,1
+US-WA,Franklin,Say's Phoebe,1,1
+US-WA,Franklin,Violet-green Swallow,1,10
+US-WA,Franklin,Western Meadowlark,1,3
+US-WA,Grant,American Coot,6,128
+US-WA,Grant,American Robin,5,13
+US-WA,Grant,Bald Eagle,2,3
+US-WA,Grant,Black-billed Magpie,1,2
+US-WA,Grant,Black-crowned Night Heron,1,1
+US-WA,Grant,Brewer's Blackbird,1,1
+US-WA,Grant,Brown-headed Cowbird,1,1
+US-WA,Grant,Bufflehead,1,8
+US-WA,Grant,Burrowing Owl,1,1
+US-WA,Grant,California Gull,1,100
+US-WA,Grant,California Quail,3,18
+US-WA,Grant,Canada Goose,1,3
+US-WA,Grant,Chukar,1,2
+US-WA,Grant,Common Raven,2,4
+US-WA,Grant,Dark-eyed Junco,4,9
+US-WA,Grant,Double-crested Cormorant,1,30
+US-WA,Grant,Downy Woodpecker,1,1
+US-WA,Grant,Eurasian Collared-Dove,2,3
+US-WA,Grant,European Starling,2,18
+US-WA,Grant,Glaucous-winged Gull,1,1
+US-WA,Grant,Great Blue Heron,2,2
+US-WA,Grant,Great Horned Owl,3,4
+US-WA,Grant,House Finch,2,2
+US-WA,Grant,House Sparrow,1,2
+US-WA,Grant,Killdeer,5,17
+US-WA,Grant,Lesser Scaup,1,20
+US-WA,Grant,Loggerhead Shrike,1,1
+US-WA,Grant,Mallard,3,8
+US-WA,Grant,Mourning Dove,1,1
+US-WA,Grant,Red-tailed Hawk,1,1
+US-WA,Grant,Red-winged Blackbird,7,66
+US-WA,Grant,Ring-billed Gull,1,100
+US-WA,Grant,Ring-necked Pheasant,1,1
+US-WA,Grant,Sandhill Crane,2,7
+US-WA,Grant,Say's Phoebe,1,4
+US-WA,Grant,Snow Goose,2,2000
+US-WA,Grant,Tree Swallow,4,40
+US-WA,Grant,Varied Thrush,1,1
+US-WA,Grant,Western Meadowlark,2,3
+US-WA,Grant,White-crowned Sparrow,3,8
+US-WA,Grant,Yellow-headed Blackbird,1,1
+US-WA,Grays Harbor,American Crow,5,8
+US-WA,Grays Harbor,American Goldfinch,2,8
+US-WA,Grays Harbor,American Robin,5,9
+US-WA,Grays Harbor,Anna's Hummingbird,1,1
+US-WA,Grays Harbor,Bald Eagle,7,10
+US-WA,Grays Harbor,Barn Swallow,7,10
+US-WA,Grays Harbor,Bewick's Wren,1,1
+US-WA,Grays Harbor,Black Oystercatcher,1,1
+US-WA,Grays Harbor,Black Turnstone,2,5
+US-WA,Grays Harbor,Black-bellied Plover,4,4
+US-WA,Grays Harbor,Black-capped Chickadee,1,1
+US-WA,Grays Harbor,Blue-winged Teal,3,3
+US-WA,Grays Harbor,Bonaparte's Gull,1,1
+US-WA,Grays Harbor,Brown Pelican,5,115
+US-WA,Grays Harbor,Brown-headed Cowbird,6,13
+US-WA,Grays Harbor,Bufflehead,1,1
+US-WA,Grays Harbor,Cackling Goose,1,1
+US-WA,Grays Harbor,California Gull,2,21
+US-WA,Grays Harbor,Canada Goose,3,8
+US-WA,Grays Harbor,Caspian Tern,4,4
+US-WA,Grays Harbor,Cinnamon Teal,1,1
+US-WA,Grays Harbor,Cliff Swallow,1,1
+US-WA,Grays Harbor,Common Loon,2,3
+US-WA,Grays Harbor,Common Raven,3,4
+US-WA,Grays Harbor,Double-crested Cormorant,3,12
+US-WA,Grays Harbor,Dunlin,4,4
+US-WA,Grays Harbor,European Starling,2,7
+US-WA,Grays Harbor,Gadwall,4,23
+US-WA,Grays Harbor,Glaucous-winged Gull,2,2
+US-WA,Grays Harbor,Golden-crowned Sparrow,2,2
+US-WA,Grays Harbor,Great Blue Heron,4,5
+US-WA,Grays Harbor,Great Egret,1,1
+US-WA,Grays Harbor,Greater Yellowlegs,2,5
+US-WA,Grays Harbor,Green-winged Teal,4,9
+US-WA,Grays Harbor,Hudsonian Whimbrel,5,7
+US-WA,Grays Harbor,Killdeer,5,6
+US-WA,Grays Harbor,Least Sandpiper,4,15
+US-WA,Grays Harbor,Lesser Scaup,1,10
+US-WA,Grays Harbor,Mallard,6,12
+US-WA,Grays Harbor,Marbled Godwit,2,6
+US-WA,Grays Harbor,Mourning Dove,1,1
+US-WA,Grays Harbor,Northern Harrier,2,2
+US-WA,Grays Harbor,Northern Shoveler,4,33
+US-WA,Grays Harbor,Orange-crowned Warbler,1,1
+US-WA,Grays Harbor,Osprey,1,1
+US-WA,Grays Harbor,Pelagic Cormorant,1,1
+US-WA,Grays Harbor,Peregrine Falcon,1,1
+US-WA,Grays Harbor,Purple Finch,2,2
+US-WA,Grays Harbor,Red Knot,3,4
+US-WA,Grays Harbor,Red-winged Blackbird,2,5
+US-WA,Grays Harbor,Ring-necked Pheasant,1,1
+US-WA,Grays Harbor,Ruddy Turnstone,2,3
+US-WA,Grays Harbor,Rufous Hummingbird,2,4
+US-WA,Grays Harbor,Sanderling,2,3
+US-WA,Grays Harbor,Savannah Sparrow,4,7
+US-WA,Grays Harbor,Semipalmated Plover,6,6
+US-WA,Grays Harbor,Short-billed Dowitcher,3,7
+US-WA,Grays Harbor,Song Sparrow,3,6
+US-WA,Grays Harbor,Steller's Jay,1,1
+US-WA,Grays Harbor,Surfbird,1,1
+US-WA,Grays Harbor,Turkey Vulture,1,1
+US-WA,Grays Harbor,Violet-green Swallow,4,9
+US-WA,Grays Harbor,Western Gull,1,1
+US-WA,Grays Harbor,Western Sandpiper,6,6
+US-WA,Grays Harbor,White-crowned Sparrow,2,5
+US-WA,Grays Harbor,Wilson's Warbler,1,1
+US-WA,Island,American Crow,1,1
+US-WA,Island,Bald Eagle,1,1
+US-WA,Island,Brandt's Cormorant,1,1
+US-WA,Island,Brown Pelican,1,3
+US-WA,Island,Common Murre,1,1
+US-WA,Island,Harlequin Duck,1,1
+US-WA,Island,Horned Puffin,1,1
+US-WA,Island,Marbled Murrelet,1,1
+US-WA,Island,Pacific Loon,1,1
+US-WA,Island,Pelagic Cormorant,1,1
+US-WA,Island,Pigeon Guillemot,1,1
+US-WA,Island,Rhinoceros Auklet,1,1
+US-WA,Island,Surf Scoter,1,1
+US-WA,Island,Tufted Puffin,1,1
+US-WA,Jefferson,American Crow,2,3
+US-WA,Jefferson,American Goldfinch,1,3
+US-WA,Jefferson,American Robin,2,13
+US-WA,Jefferson,Bald Eagle,2,4
+US-WA,Jefferson,Barn Swallow,2,16
+US-WA,Jefferson,Belted Kingfisher,3,4
+US-WA,Jefferson,Black Oystercatcher,1,3
+US-WA,Jefferson,Brown Pelican,1,4
+US-WA,Jefferson,Canada Goose,1,11
+US-WA,Jefferson,Caspian Tern,1,1
+US-WA,Jefferson,Cliff Swallow,1,3
+US-WA,Jefferson,European Starling,1,1
+US-WA,Jefferson,Glaucous-winged Gull,2,90
+US-WA,Jefferson,Great Blue Heron,2,2
+US-WA,Jefferson,House Finch,1,3
+US-WA,Jefferson,Killdeer,2,7
+US-WA,Jefferson,Mallard,1,2
+US-WA,Jefferson,Northern Rough-winged Swallow,2,4
+US-WA,Jefferson,Pacific Loon,1,1
+US-WA,Jefferson,Pacific Wren,1,1
+US-WA,Jefferson,Pigeon Guillemot,2,40
+US-WA,Jefferson,Red-breasted Sapsucker,1,1
+US-WA,Jefferson,Rhinoceros Auklet,1,10
+US-WA,Jefferson,Savannah Sparrow,2,3
+US-WA,Jefferson,Song Sparrow,1,2
+US-WA,Jefferson,Spotted Towhee,1,1
+US-WA,Jefferson,Violet-green Swallow,2,10
+US-WA,Jefferson,Western Tanager,1,1
+US-WA,Jefferson,White-crowned Sparrow,2,20
+US-WA,Jefferson,Wilson's Warbler,1,1
+US-WA,King,American Bittern,1,1
+US-WA,King,American Coot,23,1742
+US-WA,King,American Crow,71,790
+US-WA,King,American Dipper,1,2
+US-WA,King,American Goldfinch,10,36
+US-WA,King,American Kestrel,1,1
+US-WA,King,American Robin,46,185
+US-WA,King,American Wigeon,21,269
+US-WA,King,Anna's Hummingbird,44,100
+US-WA,King,Bald Eagle,34,72
+US-WA,King,Band-tailed Pigeon,1,12
+US-WA,King,Barn Swallow,9,43
+US-WA,King,Barred Owl,2,6
+US-WA,King,Barrow's Goldeneye,7,36
+US-WA,King,Belted Kingfisher,13,17
+US-WA,King,Bewick's Wren,13,16
+US-WA,King,Black Scoter,1,2
+US-WA,King,Black-capped Chickadee,39,127
+US-WA,King,Blue-winged Teal,2,2
+US-WA,King,Brown Creeper,15,22
+US-WA,King,Brown-headed Cowbird,9,18
+US-WA,King,Bufflehead,25,117
+US-WA,King,Bushtit,25,121
+US-WA,King,California Gull,1,2
+US-WA,King,California Scrub-Jay,3,5
+US-WA,King,Canada Goose,37,684
+US-WA,King,Caspian Tern,3,7
+US-WA,King,Cedar Waxwing,5,45
+US-WA,King,Chestnut-backed Chickadee,8,13
+US-WA,King,Chipping Sparrow,3,3
+US-WA,King,Cliff Swallow,1,5
+US-WA,King,Common Goldeneye,14,39
+US-WA,King,Common Merganser,27,71
+US-WA,King,Common Raven,2,3
+US-WA,King,Common Yellowthroat,4,5
+US-WA,King,Cooper's Hawk,8,9
+US-WA,King,Dark-eyed Junco,45,131
+US-WA,King,Double-crested Cormorant,31,338
+US-WA,King,Downy Woodpecker,13,22
+US-WA,King,Eurasian Wigeon,4,5
+US-WA,King,European Starling,20,62
+US-WA,King,Fox Sparrow,2,2
+US-WA,King,Gadwall,31,156
+US-WA,King,Glaucous-winged Gull,23,113
+US-WA,King,Golden-crowned Kinglet,2,12
+US-WA,King,Golden-crowned Sparrow,10,29
+US-WA,King,Great Blue Heron,36,176
+US-WA,King,Greater Scaup,2,25
+US-WA,King,Green Heron,2,3
+US-WA,King,Green-winged Teal,10,42
+US-WA,King,Hairy Woodpecker,1,2
+US-WA,King,Harlequin Duck,1,1
+US-WA,King,Hermit Thrush,1,1
+US-WA,King,Hooded Merganser,9,25
+US-WA,King,Horned Grebe,8,26
+US-WA,King,House Finch,25,70
+US-WA,King,House Sparrow,5,12
+US-WA,King,Killdeer,11,30
+US-WA,King,Least Sandpiper,1,4
+US-WA,King,Lesser Scaup,10,228
+US-WA,King,Mallard,52,590
+US-WA,King,Marsh Wren,15,30
+US-WA,King,Northern Flicker,24,44
+US-WA,King,Northern Harrier,1,1
+US-WA,King,Northern Shoveler,15,127
+US-WA,King,Northern Yellow Warbler,5,5
+US-WA,King,Orange-crowned Warbler,5,8
+US-WA,King,Osprey,10,19
+US-WA,King,Pacific Wren,1,1
+US-WA,King,Pelagic Cormorant,1,2
+US-WA,King,Pied-billed Grebe,20,43
+US-WA,King,Pigeon Guillemot,2,2
+US-WA,King,Pileated Woodpecker,3,4
+US-WA,King,Purple Finch,1,2
+US-WA,King,Purple Martin,7,47
+US-WA,King,Red-breasted Merganser,2,3
+US-WA,King,Red-breasted Nuthatch,5,8
+US-WA,King,Red-necked Grebe,5,11
+US-WA,King,Red-tailed Hawk,7,7
+US-WA,King,Red-winged Blackbird,25,146
+US-WA,King,Redhead,1,1
+US-WA,King,Ring-billed Gull,2,11
+US-WA,King,Ring-necked Duck,12,48
+US-WA,King,Rock Pigeon (Feral Pigeon),23,223
+US-WA,King,Ruby-crowned Kinglet,13,16
+US-WA,King,Rufous Hummingbird,1,1
+US-WA,King,Savannah Sparrow,5,9
+US-WA,King,Short-billed Gull,2,2
+US-WA,King,Song Sparrow,45,153
+US-WA,King,Spotted Sandpiper,1,1
+US-WA,King,Spotted Towhee,25,72
+US-WA,King,Steller's Jay,7,10
+US-WA,King,Surf Scoter,9,56
+US-WA,King,Swainson's Thrush,1,1
+US-WA,King,Townsend's Warbler,1,1
+US-WA,King,Tree Swallow,14,72
+US-WA,King,Trumpeter Swan,3,14
+US-WA,King,Varied Thrush,2,2
+US-WA,King,Vaux's Swift,2,3
+US-WA,King,Violet-green Swallow,5,23
+US-WA,King,Virginia Rail,4,12
+US-WA,King,Wandering Tattler,1,1
+US-WA,King,Western Grebe,1,10
+US-WA,King,Western Kingbird,1,1
+US-WA,King,Western Warbling Vireo,1,1
+US-WA,King,Western Wood-Pewee,1,1
+US-WA,King,White-crowned Sparrow,14,24
+US-WA,King,Willow Flycatcher,1,1
+US-WA,King,Wilson's Snipe,1,1
+US-WA,King,Wilson's Warbler,2,3
+US-WA,King,Wood Duck,18,155
+US-WA,King,Yellow-rumped Warbler,12,36
+US-WA,Kitsap,American Crow,2,6
+US-WA,Kitsap,Bald Eagle,1,3
+US-WA,Kitsap,Barn Swallow,1,7
+US-WA,Kitsap,Barrow's Goldeneye,1,20
+US-WA,Kitsap,Brandt's Cormorant,1,5
+US-WA,Kitsap,Double-crested Cormorant,1,5
+US-WA,Kitsap,European Starling,1,1
+US-WA,Kitsap,Great Blue Heron,1,2
+US-WA,Kitsap,Marbled Murrelet,1,2
+US-WA,Kitsap,Northern Flicker,1,1
+US-WA,Kitsap,Osprey,1,1
+US-WA,Kitsap,Pelagic Cormorant,1,10
+US-WA,Kitsap,Pigeon Guillemot,1,2
+US-WA,Kitsap,Red-winged Blackbird,1,4
+US-WA,Kitsap,Rock Wren,1,1
+US-WA,Kitsap,Song Sparrow,1,2
+US-WA,Kitsap,Spotted Towhee,1,1
+US-WA,Kitsap,Steller's Jay,1,6
+US-WA,Kitsap,Violet-green Swallow,1,1
+US-WA,Kitsap,White-crowned Sparrow,1,1
+US-WA,Kittitas,American Crow,1,1
+US-WA,Kittitas,American Kestrel,1,1
+US-WA,Kittitas,Black-billed Magpie,1,1
+US-WA,Kittitas,Common Raven,1,2
+US-WA,Kittitas,Horned Lark,1,2
+US-WA,Kittitas,Killdeer,1,4
+US-WA,Kittitas,Lesser Scaup,1,2
+US-WA,Kittitas,Mountain Bluebird,1,7
+US-WA,Kittitas,Red-tailed Hawk,1,1
+US-WA,Kittitas,Ruby-crowned Kinglet,1,1
+US-WA,Kittitas,Yellow-rumped Warbler,1,1
+US-WA,Pacific,American Crow,2,6
+US-WA,Pacific,American Goldfinch,1,1
+US-WA,Pacific,American Robin,2,9
+US-WA,Pacific,Bald Eagle,4,7
+US-WA,Pacific,Barn Swallow,2,10
+US-WA,Pacific,Belted Kingfisher,1,1
+US-WA,Pacific,Black-bellied Plover,1,1
+US-WA,Pacific,Black-capped Chickadee,1,1
+US-WA,Pacific,Brown Pelican,2,60
+US-WA,Pacific,Brown-headed Cowbird,1,1
+US-WA,Pacific,Canada Goose,1,30
+US-WA,Pacific,Chestnut-backed Chickadee,1,1
+US-WA,Pacific,Cliff Swallow,1,3
+US-WA,Pacific,Common Loon,1,1
+US-WA,Pacific,Common Raven,1,1
+US-WA,Pacific,Common Yellowthroat,1,2
+US-WA,Pacific,Double-crested Cormorant,1,1
+US-WA,Pacific,Downy Woodpecker,1,1
+US-WA,Pacific,Dunlin,3,4
+US-WA,Pacific,European Starling,1,5
+US-WA,Pacific,Great Blue Heron,2,13
+US-WA,Pacific,Greater Yellowlegs,1,1
+US-WA,Pacific,Hudsonian Whimbrel,2,2
+US-WA,Pacific,Least Sandpiper,2,2
+US-WA,Pacific,Marbled Godwit,2,2
+US-WA,Pacific,Marsh Wren,1,1
+US-WA,Pacific,Pigeon Guillemot,1,2
+US-WA,Pacific,Purple Finch,1,1
+US-WA,Pacific,Red-winged Blackbird,1,1
+US-WA,Pacific,Ring-billed Gull,1,1
+US-WA,Pacific,Rock Pigeon (Feral Pigeon),1,5
+US-WA,Pacific,Rufous Hummingbird,1,1
+US-WA,Pacific,Sanderling,1,1
+US-WA,Pacific,Savannah Sparrow,2,4
+US-WA,Pacific,Semipalmated Plover,1,1
+US-WA,Pacific,Short-billed Dowitcher,2,4
+US-WA,Pacific,Snowy Plover,1,3
+US-WA,Pacific,Song Sparrow,3,7
+US-WA,Pacific,Spotted Towhee,1,1
+US-WA,Pacific,Steller's Jay,1,1
+US-WA,Pacific,Tree Swallow,1,2
+US-WA,Pacific,Violet-green Swallow,1,1
+US-WA,Pacific,Western Flycatcher,1,1
+US-WA,Pacific,Western Gull,2,2
+US-WA,Pacific,Western Sandpiper,2,2
+US-WA,Pacific,White-crowned Sparrow,2,2
+US-WA,Pierce,American Dipper,1,1
+US-WA,Pierce,Belted Kingfisher,1,1
+US-WA,Pierce,California Scrub-Jay,1,1
+US-WA,Pierce,Canada Jay,3,11
+US-WA,Pierce,Clark's Nutcracker,1,1
+US-WA,Pierce,Common Raven,3,5
+US-WA,Pierce,Dark-eyed Junco,2,4
+US-WA,Pierce,Mountain Chickadee,1,1
+US-WA,Pierce,Northern Pygmy-Owl,1,1
+US-WA,Pierce,Pine Siskin,1,4
+US-WA,Pierce,Red-breasted Nuthatch,1,1
+US-WA,Pierce,Sooty Grouse,1,4
+US-WA,Pierce,Vaux's Swift,1,2
+US-WA,Pierce,Yellow-rumped Warbler,1,1
+US-WA,Skagit,American Coot,2,5
+US-WA,Skagit,American Crow,2,4
+US-WA,Skagit,American Robin,1,5
+US-WA,Skagit,American Wigeon,2,11
+US-WA,Skagit,Bald Eagle,4,14
+US-WA,Skagit,Band-tailed Pigeon,1,1
+US-WA,Skagit,Barn Swallow,1,3
+US-WA,Skagit,Black Phoebe,2,3
+US-WA,Skagit,Black-capped Chickadee,1,1
+US-WA,Skagit,Bufflehead,3,10
+US-WA,Skagit,Canada Goose,1,1
+US-WA,Skagit,Common Goldeneye,1,1
+US-WA,Skagit,Common Merganser,1,2
+US-WA,Skagit,Dark-eyed Junco,1,1
+US-WA,Skagit,Double-crested Cormorant,2,2
+US-WA,Skagit,Downy Woodpecker,2,3
+US-WA,Skagit,Dunlin,2,70
+US-WA,Skagit,European Starling,2,21
+US-WA,Skagit,Gadwall,1,3
+US-WA,Skagit,Glaucous-winged Gull,1,1
+US-WA,Skagit,Golden-crowned Sparrow,2,6
+US-WA,Skagit,Great Blue Heron,3,10
+US-WA,Skagit,Greater Yellowlegs,1,6
+US-WA,Skagit,Green-winged Teal,2,20
+US-WA,Skagit,Killdeer,1,2
+US-WA,Skagit,Lincoln's Sparrow,1,1
+US-WA,Skagit,Long-billed Dowitcher,1,20
+US-WA,Skagit,Mallard,2,7
+US-WA,Skagit,Marsh Wren,1,1
+US-WA,Skagit,Mourning Dove,1,10
+US-WA,Skagit,Northern Harrier,3,5
+US-WA,Skagit,Northern Pintail,1,10
+US-WA,Skagit,Northern Shoveler,1,6
+US-WA,Skagit,Pied-billed Grebe,2,4
+US-WA,Skagit,Red-breasted Merganser,1,1
+US-WA,Skagit,Red-winged Blackbird,2,10
+US-WA,Skagit,Ring-necked Duck,1,5
+US-WA,Skagit,Ruby-crowned Kinglet,2,2
+US-WA,Skagit,Savannah Sparrow,1,1
+US-WA,Skagit,Short-eared Owl,1,3
+US-WA,Skagit,Snow Goose,1,1
+US-WA,Skagit,Song Sparrow,4,14
+US-WA,Skagit,Spotted Towhee,2,3
+US-WA,Skagit,Tree Swallow,1,4
+US-WA,Skagit,Trumpeter Swan,3,35
+US-WA,Snohomish,American Coot,3,9
+US-WA,Snohomish,American Crow,8,27
+US-WA,Snohomish,American Goldfinch,4,23
+US-WA,Snohomish,American Robin,10,36
+US-WA,Snohomish,American Wigeon,3,34
+US-WA,Snohomish,Anna's Hummingbird,8,9
+US-WA,Snohomish,Bald Eagle,6,12
+US-WA,Snohomish,Band-tailed Pigeon,1,7
+US-WA,Snohomish,Bank Swallow,1,1
+US-WA,Snohomish,Barn Swallow,7,22
+US-WA,Snohomish,Belted Kingfisher,3,4
+US-WA,Snohomish,Bewick's Wren,2,2
+US-WA,Snohomish,Black Phoebe,1,1
+US-WA,Snohomish,Black-capped Chickadee,5,7
+US-WA,Snohomish,Black-headed Grosbeak,1,1
+US-WA,Snohomish,Bonaparte's Gull,1,3
+US-WA,Snohomish,Brant,2,23
+US-WA,Snohomish,Brewer's Blackbird,1,1
+US-WA,Snohomish,Brown Creeper,1,3
+US-WA,Snohomish,Brown-headed Cowbird,4,14
+US-WA,Snohomish,Bufflehead,7,36
+US-WA,Snohomish,Bullock's Oriole,1,3
+US-WA,Snohomish,Bushtit,1,1
+US-WA,Snohomish,Canada Goose,7,100
+US-WA,Snohomish,Cedar Waxwing,5,19
+US-WA,Snohomish,Chestnut-backed Chickadee,1,8
+US-WA,Snohomish,Cinnamon Teal,1,1
+US-WA,Snohomish,Cliff Swallow,2,6
+US-WA,Snohomish,Common Goldeneye,2,2
+US-WA,Snohomish,Common Merganser,2,7
+US-WA,Snohomish,Common Raven,2,2
+US-WA,Snohomish,Common Yellowthroat,5,10
+US-WA,Snohomish,Cooper's Hawk,1,1
+US-WA,Snohomish,Dark-eyed Junco,8,13
+US-WA,Snohomish,Double-crested Cormorant,3,15
+US-WA,Snohomish,Eurasian Collared-Dove,1,3
+US-WA,Snohomish,European Starling,8,63
+US-WA,Snohomish,Gadwall,5,21
+US-WA,Snohomish,Glaucous-winged Gull,3,7
+US-WA,Snohomish,Golden-crowned Kinglet,1,1
+US-WA,Snohomish,Golden-crowned Sparrow,1,2
+US-WA,Snohomish,Great Blue Heron,11,30
+US-WA,Snohomish,Greater White-fronted Goose,1,14
+US-WA,Snohomish,Greater Yellowlegs,3,7
+US-WA,Snohomish,Green-winged Teal,6,63
+US-WA,Snohomish,Hairy Woodpecker,2,4
+US-WA,Snohomish,Heermann's Gull,1,30
+US-WA,Snohomish,Hooded Merganser,2,3
+US-WA,Snohomish,Horned Grebe,3,8
+US-WA,Snohomish,House Finch,9,29
+US-WA,Snohomish,House Sparrow,3,9
+US-WA,Snohomish,Killdeer,8,28
+US-WA,Snohomish,Lazuli Bunting,1,6
+US-WA,Snohomish,Lesser Scaup,3,620
+US-WA,Snohomish,Long-billed Dowitcher,1,33
+US-WA,Snohomish,MacGillivray's Warbler,1,1
+US-WA,Snohomish,Mallard,12,169
+US-WA,Snohomish,Marsh Wren,4,5
+US-WA,Snohomish,Mourning Dove,4,7
+US-WA,Snohomish,Northern Flicker,3,6
+US-WA,Snohomish,Northern Harrier,3,3
+US-WA,Snohomish,Northern Pintail,1,100
+US-WA,Snohomish,Northern Shoveler,3,436
+US-WA,Snohomish,Northern Yellow Warbler,3,6
+US-WA,Snohomish,Olive-sided Flycatcher,1,1
+US-WA,Snohomish,Orange-crowned Warbler,1,2
+US-WA,Snohomish,Osprey,1,1
+US-WA,Snohomish,Pacific Loon,1,1
+US-WA,Snohomish,Pacific Wren,2,2
+US-WA,Snohomish,Pelagic Cormorant,2,4
+US-WA,Snohomish,Pied-billed Grebe,3,6
+US-WA,Snohomish,Pigeon Guillemot,3,5
+US-WA,Snohomish,Red-breasted Merganser,2,5
+US-WA,Snohomish,Red-breasted Sapsucker,1,1
+US-WA,Snohomish,Red-necked Grebe,2,2
+US-WA,Snohomish,Red-tailed Hawk,2,3
+US-WA,Snohomish,Red-winged Blackbird,8,58
+US-WA,Snohomish,Redhead,1,2
+US-WA,Snohomish,Ring-billed Gull,1,1
+US-WA,Snohomish,Ring-necked Duck,2,103
+US-WA,Snohomish,Rock Pigeon (Feral Pigeon),7,13
+US-WA,Snohomish,Ruby-crowned Kinglet,3,3
+US-WA,Snohomish,Ruddy Duck,2,3
+US-WA,Snohomish,Rufous Hummingbird,2,4
+US-WA,Snohomish,Savannah Sparrow,2,2
+US-WA,Snohomish,Short-billed Gull,2,6
+US-WA,Snohomish,Song Sparrow,11,26
+US-WA,Snohomish,Spotted Sandpiper,3,4
+US-WA,Snohomish,Spotted Towhee,2,2
+US-WA,Snohomish,Steller's Jay,1,2
+US-WA,Snohomish,Surf Scoter,2,4
+US-WA,Snohomish,Townsend's Warbler,1,5
+US-WA,Snohomish,Tree Swallow,8,35
+US-WA,Snohomish,Vaux's Swift,2,2
+US-WA,Snohomish,Violet-green Swallow,2,5
+US-WA,Snohomish,Virginia Rail,1,2
+US-WA,Snohomish,Western Wood-Pewee,2,3
+US-WA,Snohomish,White-crowned Sparrow,3,5
+US-WA,Snohomish,Willow Flycatcher,1,1
+US-WA,Snohomish,Wilson's Snipe,1,1
+US-WA,Snohomish,Wood Duck,3,23
+US-WA,Snohomish,Yellow-headed Blackbird,1,2
+US-WA,Snohomish,Yellow-rumped Warbler,5,10
+US-WA,Thurston,American Bittern,1,1
+US-WA,Thurston,American Coot,1,1
+US-WA,Thurston,American Robin,1,4
+US-WA,Thurston,American Wigeon,1,1
+US-WA,Thurston,Bald Eagle,1,35
+US-WA,Thurston,Barn Swallow,1,10
+US-WA,Thurston,Brown-headed Cowbird,1,2
+US-WA,Thurston,Bufflehead,1,10
+US-WA,Thurston,Canada Goose,1,10
+US-WA,Thurston,Caspian Tern,1,4
+US-WA,Thurston,Cliff Swallow,1,20
+US-WA,Thurston,European Starling,1,1
+US-WA,Thurston,Glaucous-winged Gull,1,1
+US-WA,Thurston,Golden-crowned Sparrow,1,2
+US-WA,Thurston,Great Blue Heron,1,6
+US-WA,Thurston,Greater Yellowlegs,1,1
+US-WA,Thurston,Green-winged Teal,1,2
+US-WA,Thurston,Hooded Merganser,1,3
+US-WA,Thurston,Hudsonian Whimbrel,1,2
+US-WA,Thurston,Killdeer,1,3
+US-WA,Thurston,Mallard,1,14
+US-WA,Thurston,Marsh Wren,1,1
+US-WA,Thurston,Mourning Dove,1,2
+US-WA,Thurston,Northern Shoveler,1,5
+US-WA,Thurston,Red-winged Blackbird,1,7
+US-WA,Thurston,Ring-billed Gull,1,2
+US-WA,Thurston,Ring-necked Duck,1,1
+US-WA,Thurston,Song Sparrow,1,2
+US-WA,Thurston,Tree Swallow,1,5
+US-WA,Thurston,Violet-green Swallow,1,1
+US-WA,Thurston,Wood Duck,1,1

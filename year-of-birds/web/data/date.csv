@@ -1,0 +1,2196 @@
+state,date,name,count
+US-CA,2026-06-11,American Robin,1
+US-CA,2026-06-11,Brewer's Blackbird,1
+US-CA,2026-06-11,Cedar Waxwing,1
+US-CA,2026-06-11,Lesser Goldfinch,1
+US-CA,2026-06-11,Ring-billed Gull,30
+US-CA,2026-06-12,American Crow,8
+US-CA,2026-06-12,Anna's Hummingbird,1
+US-CA,2026-06-12,Barn Swallow,1
+US-CA,2026-06-12,Black Oystercatcher,2
+US-CA,2026-06-12,Black Phoebe,4
+US-CA,2026-06-12,Black-crowned Night Heron,4
+US-CA,2026-06-12,Brown Pelican,6
+US-CA,2026-06-12,California Towhee,1
+US-CA,2026-06-12,Caspian Tern,2
+US-CA,2026-06-12,Double-crested Cormorant,2
+US-CA,2026-06-12,European Starling,4
+US-CA,2026-06-12,Great Blue Heron,5
+US-CA,2026-06-12,House Finch,10
+US-CA,2026-06-12,Orange-crowned Warbler,1
+US-CA,2026-06-12,Red-winged Blackbird,5
+US-CA,2026-06-12,Rock Pigeon (Feral Pigeon),10
+US-CA,2026-06-12,Savannah Sparrow,3
+US-CA,2026-06-12,Snowy Egret,1
+US-CA,2026-06-12,Song Sparrow,2
+US-CA,2026-06-12,Western Gull,2
+US-CA,2026-06-12,White-crowned Sparrow,2
+US-CA,2026-06-13,American Avocet,9
+US-CA,2026-06-13,American Crow,2
+US-CA,2026-06-13,Black Phoebe,3
+US-CA,2026-06-13,Black-bellied Plover,10
+US-CA,2026-06-13,Brown Pelican,2
+US-CA,2026-06-13,Brown-headed Cowbird,1
+US-CA,2026-06-13,Bushtit,5
+US-CA,2026-06-13,California Towhee,4
+US-CA,2026-06-13,Canada Goose,2
+US-CA,2026-06-13,Caspian Tern,1
+US-CA,2026-06-13,Cliff Swallow,1
+US-CA,2026-06-13,Double-crested Cormorant,1
+US-CA,2026-06-13,European Starling,30
+US-CA,2026-06-13,House Finch,11
+US-CA,2026-06-13,House Sparrow,1
+US-CA,2026-06-13,Killdeer,3
+US-CA,2026-06-13,Long-billed Curlew,1
+US-CA,2026-06-13,Mallard,10
+US-CA,2026-06-13,Marbled Godwit,20
+US-CA,2026-06-13,Northern Mockingbird,2
+US-CA,2026-06-13,Rock Pigeon,8
+US-CA,2026-06-13,Snowy Egret,7
+US-CA,2026-06-13,Song Sparrow,1
+US-CA,2026-06-13,Spotted Towhee,1
+US-CA,2026-06-13,Tree Swallow,1
+US-CA,2026-06-13,White-crowned Sparrow,2
+US-HI,2026-03-25,Common Myna,8
+US-HI,2026-03-25,Hawaiian Goose,5
+US-HI,2026-03-25,House Finch,1
+US-HI,2026-03-25,House Sparrow,6
+US-HI,2026-03-25,Northern Cardinal,1
+US-HI,2026-03-25,Pacific Golden-Plover,1
+US-HI,2026-03-25,Red-crested Cardinal,3
+US-HI,2026-03-25,Spotted Dove,4
+US-HI,2026-03-25,Warbling White-eye,2
+US-HI,2026-03-25,Western Cattle-Egret,4
+US-HI,2026-03-25,White-rumped Shama,1
+US-HI,2026-03-25,Zebra Dove,15
+US-HI,2026-03-26,Common Myna,4
+US-HI,2026-03-26,House Sparrow,10
+US-HI,2026-03-26,Java Sparrow,5
+US-HI,2026-03-26,Red-crested Cardinal,1
+US-HI,2026-03-26,Scaly-breasted Munia,1
+US-HI,2026-03-26,Western Cattle-Egret,1
+US-HI,2026-03-26,Zebra Dove,10
+US-HI,2026-03-27,Common Gallinule,2
+US-HI,2026-03-27,Common Myna,12
+US-HI,2026-03-27,Hawaiian Goose,2
+US-HI,2026-03-27,Laysan Albatross,1
+US-HI,2026-03-27,Northern Cardinal,1
+US-HI,2026-03-27,Pacific Golden-Plover,1
+US-HI,2026-03-27,Red-crested Cardinal,1
+US-HI,2026-03-27,Red-footed Booby,1
+US-HI,2026-03-27,Red-tailed Tropicbird,1
+US-HI,2026-03-27,Rock Pigeon (Feral Pigeon),1
+US-HI,2026-03-27,Wedge-tailed Shearwater,1
+US-HI,2026-03-27,White-rumped Shama,1
+US-HI,2026-03-27,White-tailed Tropicbird,3
+US-HI,2026-03-27,Zebra Dove,2
+US-HI,2026-03-28,American Barn Owl,1
+US-HI,2026-03-28,Black-crowned Night Heron,2
+US-HI,2026-03-28,Black-necked Stilt,8
+US-HI,2026-03-28,Chestnut Munia,1
+US-HI,2026-03-28,Common Gallinule,3
+US-HI,2026-03-28,Common Myna,1
+US-HI,2026-03-28,Dunlin,1
+US-HI,2026-03-28,Great Frigatebird,1
+US-HI,2026-03-28,Hawaiian Coot,3
+US-HI,2026-03-28,Hawaiian Duck,1
+US-HI,2026-03-28,House Finch,1
+US-HI,2026-03-28,House Sparrow,1
+US-HI,2026-03-28,Northern Cardinal,3
+US-HI,2026-03-28,Northern Mockingbird,1
+US-HI,2026-03-28,Pacific Golden-Plover,3
+US-HI,2026-03-28,Red-crested Cardinal,3
+US-HI,2026-03-28,Ruddy Turnstone,8
+US-HI,2026-03-28,Sanderling,1
+US-HI,2026-03-28,Spotted Dove,1
+US-HI,2026-03-28,Wandering Tattler,1
+US-HI,2026-03-28,Warbling White-eye,2
+US-HI,2026-03-28,Western Cattle-Egret,2
+US-HI,2026-03-28,Zebra Dove,1
+US-HI,2026-03-29,Brown Booby,1
+US-HI,2026-03-29,Rose-ringed Parakeet,1
+US-HI,2026-03-30,Common Myna,6
+US-HI,2026-03-30,Hawaiian Duck,1
+US-HI,2026-03-30,Hawaiian Goose,5
+US-HI,2026-03-30,House Sparrow,10
+US-HI,2026-03-30,Java Sparrow,4
+US-HI,2026-03-30,Northern Mockingbird,1
+US-HI,2026-03-30,Red-crested Cardinal,1
+US-HI,2026-03-30,Saffron Finch,2
+US-HI,2026-03-30,Scaly-breasted Munia,4
+US-HI,2026-03-30,White-rumped Shama,1
+US-HI,2026-03-31,Erckel's Spurfowl,1
+US-OR,2026-06-16,Canada Jay,1
+US-OR,2026-06-16,Cassin's Finch,1
+US-OR,2026-06-16,Clark's Nutcracker,1
+US-OR,2026-06-16,Western Tanager,1
+US-OR,2026-06-17,American Robin,3
+US-OR,2026-06-17,Bullock's Oriole,1
+US-OR,2026-06-17,California Quail,8
+US-OR,2026-06-17,Evening Grosbeak,1
+US-OR,2026-06-17,Lazuli Bunting,1
+US-OR,2026-06-17,Mallard,3
+US-OR,2026-06-17,Osprey,1
+US-OR,2026-06-17,Pine Siskin,1
+US-OR,2026-06-17,Red-tailed Hawk,1
+US-OR,2026-06-17,Say's Phoebe,1
+US-OR,2026-06-17,Turkey Vulture,4
+US-OR,2026-06-17,Violet-green Swallow,5
+US-OR,2026-06-17,Western Kingbird,1
+US-OR,2026-06-17,White-throated Swift,5
+US-WA,2026-01-01,American Coot,1
+US-WA,2026-01-01,American Crow,2
+US-WA,2026-01-01,Anna's Hummingbird,1
+US-WA,2026-01-01,Bald Eagle,1
+US-WA,2026-01-01,Bufflehead,1
+US-WA,2026-01-01,Common Merganser,2
+US-WA,2026-01-01,Cooper's Hawk,1
+US-WA,2026-01-01,Dark-eyed Junco,2
+US-WA,2026-01-01,Double-crested Cormorant,2
+US-WA,2026-01-01,Gadwall,1
+US-WA,2026-01-01,Golden-crowned Sparrow,1
+US-WA,2026-01-01,Great Blue Heron,1
+US-WA,2026-01-01,Green-winged Teal,1
+US-WA,2026-01-01,Hooded Merganser,2
+US-WA,2026-01-01,Killdeer,1
+US-WA,2026-01-01,Mallard,1
+US-WA,2026-01-01,Marsh Wren,1
+US-WA,2026-01-01,Northern Flicker,1
+US-WA,2026-01-01,Pied-billed Grebe,1
+US-WA,2026-01-01,Red-winged Blackbird,1
+US-WA,2026-01-01,Ring-necked Duck,1
+US-WA,2026-01-01,Song Sparrow,2
+US-WA,2026-01-01,Trumpeter Swan,1
+US-WA,2026-01-01,Varied Thrush,1
+US-WA,2026-01-01,Wilson's Snipe,1
+US-WA,2026-01-01,Wood Duck,1
+US-WA,2026-01-02,American Crow,1
+US-WA,2026-01-02,Black-capped Chickadee,1
+US-WA,2026-01-02,Canada Goose,1
+US-WA,2026-01-02,Common Merganser,1
+US-WA,2026-01-02,Double-crested Cormorant,1
+US-WA,2026-01-02,Gadwall,1
+US-WA,2026-01-02,Mallard,1
+US-WA,2026-01-02,Rock Pigeon (Feral Pigeon),1
+US-WA,2026-01-03,American Crow,1
+US-WA,2026-01-03,American Wigeon,1
+US-WA,2026-01-03,Anna's Hummingbird,1
+US-WA,2026-01-03,Bushtit,1
+US-WA,2026-01-03,Common Goldeneye,1
+US-WA,2026-01-03,Glaucous-winged Gull,1
+US-WA,2026-01-03,Great Blue Heron,1
+US-WA,2026-01-03,Mallard,1
+US-WA,2026-01-03,Surf Scoter,1
+US-WA,2026-01-04,American Crow,1
+US-WA,2026-01-04,American Robin,1
+US-WA,2026-01-04,Anna's Hummingbird,1
+US-WA,2026-01-04,Bufflehead,1
+US-WA,2026-01-04,Canada Goose,1
+US-WA,2026-01-04,Common Goldeneye,1
+US-WA,2026-01-04,Common Merganser,1
+US-WA,2026-01-04,Double-crested Cormorant,1
+US-WA,2026-01-04,Red-tailed Hawk,1
+US-WA,2026-01-06,Lesser Scaup,1
+US-WA,2026-01-07,Belted Kingfisher,1
+US-WA,2026-01-10,American Crow,2
+US-WA,2026-01-10,American Robin,1
+US-WA,2026-01-10,Anna's Hummingbird,2
+US-WA,2026-01-10,Bald Eagle,1
+US-WA,2026-01-10,Brant,1
+US-WA,2026-01-10,Bufflehead,2
+US-WA,2026-01-10,Dark-eyed Junco,1
+US-WA,2026-01-10,Double-crested Cormorant,1
+US-WA,2026-01-10,European Starling,1
+US-WA,2026-01-10,Great Blue Heron,1
+US-WA,2026-01-10,Green-winged Teal,1
+US-WA,2026-01-10,Horned Grebe,1
+US-WA,2026-01-10,Killdeer,1
+US-WA,2026-01-10,Mallard,1
+US-WA,2026-01-10,Marsh Wren,1
+US-WA,2026-01-10,Pacific Loon,1
+US-WA,2026-01-10,Pelagic Cormorant,1
+US-WA,2026-01-10,Pigeon Guillemot,1
+US-WA,2026-01-10,Red-breasted Merganser,1
+US-WA,2026-01-10,Red-necked Grebe,1
+US-WA,2026-01-10,Ring-billed Gull,1
+US-WA,2026-01-10,Rock Pigeon (Feral Pigeon),2
+US-WA,2026-01-10,Song Sparrow,1
+US-WA,2026-01-10,Spotted Towhee,1
+US-WA,2026-01-10,Surf Scoter,1
+US-WA,2026-01-11,Chestnut-backed Chickadee,1
+US-WA,2026-01-11,Steller's Jay,1
+US-WA,2026-01-14,American Crow,1
+US-WA,2026-01-14,American Robin,1
+US-WA,2026-01-14,American Wigeon,1
+US-WA,2026-01-14,Bald Eagle,1
+US-WA,2026-01-14,Barrow's Goldeneye,1
+US-WA,2026-01-14,Brown Creeper,1
+US-WA,2026-01-14,Chestnut-backed Chickadee,1
+US-WA,2026-01-14,Common Goldeneye,1
+US-WA,2026-01-14,Gadwall,1
+US-WA,2026-01-14,Glaucous-winged Gull,1
+US-WA,2026-01-14,Great Blue Heron,1
+US-WA,2026-01-14,Horned Grebe,1
+US-WA,2026-01-14,Mallard,1
+US-WA,2026-01-14,Red-necked Grebe,1
+US-WA,2026-01-14,Song Sparrow,1
+US-WA,2026-01-14,Surf Scoter,1
+US-WA,2026-01-16,American Crow,1
+US-WA,2026-01-16,American Wigeon,1
+US-WA,2026-01-16,Bufflehead,1
+US-WA,2026-01-16,Glaucous-winged Gull,1
+US-WA,2026-01-16,Great Blue Heron,1
+US-WA,2026-01-16,Mallard,1
+US-WA,2026-01-16,Northern Shoveler,1
+US-WA,2026-01-16,Rock Pigeon (Feral Pigeon),1
+US-WA,2026-01-16,Song Sparrow,1
+US-WA,2026-01-17,American Crow,1
+US-WA,2026-01-17,American Robin,1
+US-WA,2026-01-17,Bald Eagle,1
+US-WA,2026-01-17,Bufflehead,1
+US-WA,2026-01-17,Bushtit,1
+US-WA,2026-01-17,Common Raven,1
+US-WA,2026-01-17,Northern Flicker,1
+US-WA,2026-01-17,Red-breasted Nuthatch,1
+US-WA,2026-01-17,Spotted Towhee,1
+US-WA,2026-01-17,Steller's Jay,1
+US-WA,2026-01-18,American Coot,1000
+US-WA,2026-01-18,American Crow,13
+US-WA,2026-01-18,American Robin,1
+US-WA,2026-01-18,American Wigeon,19
+US-WA,2026-01-18,Anna's Hummingbird,4
+US-WA,2026-01-18,Bald Eagle,2
+US-WA,2026-01-18,Barrow's Goldeneye,4
+US-WA,2026-01-18,Belted Kingfisher,1
+US-WA,2026-01-18,Black Scoter,2
+US-WA,2026-01-18,Black-capped Chickadee,3
+US-WA,2026-01-18,Brown Creeper,1
+US-WA,2026-01-18,Bufflehead,6
+US-WA,2026-01-18,Bushtit,2
+US-WA,2026-01-18,Canada Goose,15
+US-WA,2026-01-18,Chestnut-backed Chickadee,3
+US-WA,2026-01-18,Common Goldeneye,2
+US-WA,2026-01-18,Common Merganser,1
+US-WA,2026-01-18,Cooper's Hawk,1
+US-WA,2026-01-18,Dark-eyed Junco,5
+US-WA,2026-01-18,Double-crested Cormorant,20
+US-WA,2026-01-18,Gadwall,10
+US-WA,2026-01-18,Glaucous-winged Gull,1
+US-WA,2026-01-18,Golden-crowned Sparrow,2
+US-WA,2026-01-18,Great Blue Heron,2
+US-WA,2026-01-18,Green-winged Teal,6
+US-WA,2026-01-18,Hooded Merganser,4
+US-WA,2026-01-18,Horned Grebe,1
+US-WA,2026-01-18,House Finch,2
+US-WA,2026-01-18,Killdeer,6
+US-WA,2026-01-18,Lesser Scaup,3
+US-WA,2026-01-18,Mallard,15
+US-WA,2026-01-18,Marsh Wren,3
+US-WA,2026-01-18,Northern Flicker,1
+US-WA,2026-01-18,Northern Shoveler,15
+US-WA,2026-01-18,Pied-billed Grebe,10
+US-WA,2026-01-18,Red-winged Blackbird,10
+US-WA,2026-01-18,Ring-necked Duck,2
+US-WA,2026-01-18,Song Sparrow,9
+US-WA,2026-01-18,Spotted Towhee,3
+US-WA,2026-01-18,Wood Duck,3
+US-WA,2026-01-19,American Coot,2
+US-WA,2026-01-19,American Crow,1
+US-WA,2026-01-19,American Wigeon,11
+US-WA,2026-01-19,Bald Eagle,9
+US-WA,2026-01-19,Black Phoebe,1
+US-WA,2026-01-19,Bufflehead,7
+US-WA,2026-01-19,Common Goldeneye,1
+US-WA,2026-01-19,Dark-eyed Junco,1
+US-WA,2026-01-19,Double-crested Cormorant,1
+US-WA,2026-01-19,Downy Woodpecker,1
+US-WA,2026-01-19,Dunlin,70
+US-WA,2026-01-19,European Starling,20
+US-WA,2026-01-19,Glaucous-winged Gull,1
+US-WA,2026-01-19,Golden-crowned Sparrow,3
+US-WA,2026-01-19,Great Blue Heron,4
+US-WA,2026-01-19,Green-winged Teal,5
+US-WA,2026-01-19,Long-billed Dowitcher,20
+US-WA,2026-01-19,Mallard,2
+US-WA,2026-01-19,Mourning Dove,10
+US-WA,2026-01-19,Northern Harrier,3
+US-WA,2026-01-19,Northern Pintail,10
+US-WA,2026-01-19,Pied-billed Grebe,2
+US-WA,2026-01-19,Red-breasted Merganser,1
+US-WA,2026-01-19,Red-winged Blackbird,1
+US-WA,2026-01-19,Ruby-crowned Kinglet,1
+US-WA,2026-01-19,Short-eared Owl,3
+US-WA,2026-01-19,Snow Goose,1
+US-WA,2026-01-19,Song Sparrow,8
+US-WA,2026-01-19,Spotted Towhee,1
+US-WA,2026-01-19,Trumpeter Swan,35
+US-WA,2026-01-21,American Crow,4
+US-WA,2026-01-21,American Wigeon,2
+US-WA,2026-01-21,Barrow's Goldeneye,3
+US-WA,2026-01-21,Bufflehead,2
+US-WA,2026-01-21,Common Goldeneye,1
+US-WA,2026-01-21,Common Merganser,1
+US-WA,2026-01-21,Horned Grebe,1
+US-WA,2026-01-21,Mallard,20
+US-WA,2026-01-21,Ruby-crowned Kinglet,1
+US-WA,2026-01-25,American Coot,30
+US-WA,2026-01-25,American Crow,3
+US-WA,2026-01-25,American Wigeon,5
+US-WA,2026-01-25,Anna's Hummingbird,1
+US-WA,2026-01-25,Bald Eagle,3
+US-WA,2026-01-25,Belted Kingfisher,1
+US-WA,2026-01-25,Bewick's Wren,1
+US-WA,2026-01-25,Black-capped Chickadee,6
+US-WA,2026-01-25,Brown Creeper,1
+US-WA,2026-01-25,Bufflehead,1
+US-WA,2026-01-25,Bushtit,12
+US-WA,2026-01-25,Chestnut-backed Chickadee,1
+US-WA,2026-01-25,Common Goldeneye,2
+US-WA,2026-01-25,Common Merganser,2
+US-WA,2026-01-25,Dark-eyed Junco,1
+US-WA,2026-01-25,Double-crested Cormorant,20
+US-WA,2026-01-25,Downy Woodpecker,3
+US-WA,2026-01-25,Gadwall,10
+US-WA,2026-01-25,Green-winged Teal,7
+US-WA,2026-01-25,House Finch,1
+US-WA,2026-01-25,Killdeer,5
+US-WA,2026-01-25,Mallard,5
+US-WA,2026-01-25,Northern Shoveler,4
+US-WA,2026-01-25,Pied-billed Grebe,2
+US-WA,2026-01-25,Red-tailed Hawk,1
+US-WA,2026-01-25,Red-winged Blackbird,6
+US-WA,2026-01-25,Ruby-crowned Kinglet,2
+US-WA,2026-01-25,Song Sparrow,5
+US-WA,2026-01-25,Spotted Towhee,5
+US-WA,2026-01-25,Steller's Jay,1
+US-WA,2026-01-25,Trumpeter Swan,11
+US-WA,2026-01-25,Wood Duck,60
+US-WA,2026-01-27,American Crow,4
+US-WA,2026-01-27,Anna's Hummingbird,1
+US-WA,2026-01-27,Belted Kingfisher,1
+US-WA,2026-01-27,Black-capped Chickadee,2
+US-WA,2026-01-27,Canada Goose,2
+US-WA,2026-01-27,Common Merganser,5
+US-WA,2026-01-27,Dark-eyed Junco,3
+US-WA,2026-01-27,Double-crested Cormorant,30
+US-WA,2026-01-27,Lesser Scaup,30
+US-WA,2026-01-27,Mallard,2
+US-WA,2026-01-27,Ruby-crowned Kinglet,1
+US-WA,2026-01-27,Yellow-rumped Warbler,1
+US-WA,2026-01-30,American Crow,28
+US-WA,2026-01-30,American Goldfinch,2
+US-WA,2026-01-30,American Robin,1
+US-WA,2026-01-30,Anna's Hummingbird,2
+US-WA,2026-01-30,Bald Eagle,1
+US-WA,2026-01-30,Black-capped Chickadee,5
+US-WA,2026-01-30,California Scrub-Jay,1
+US-WA,2026-01-30,Chestnut-backed Chickadee,4
+US-WA,2026-01-30,Dark-eyed Junco,8
+US-WA,2026-01-30,Glaucous-winged Gull,1
+US-WA,2026-01-30,Golden-crowned Sparrow,3
+US-WA,2026-01-30,House Finch,1
+US-WA,2026-01-30,Red-breasted Nuthatch,1
+US-WA,2026-01-30,White-crowned Sparrow,1
+US-WA,2026-01-30,Yellow-rumped Warbler,2
+US-WA,2026-01-31,American Coot,10
+US-WA,2026-01-31,American Crow,11
+US-WA,2026-01-31,American Robin,1
+US-WA,2026-01-31,American Wigeon,12
+US-WA,2026-01-31,Anna's Hummingbird,1
+US-WA,2026-01-31,Bald Eagle,1
+US-WA,2026-01-31,Bewick's Wren,1
+US-WA,2026-01-31,Black-capped Chickadee,3
+US-WA,2026-01-31,Brown Creeper,4
+US-WA,2026-01-31,Bufflehead,9
+US-WA,2026-01-31,Canada Goose,28
+US-WA,2026-01-31,Common Goldeneye,2
+US-WA,2026-01-31,Common Merganser,4
+US-WA,2026-01-31,Dark-eyed Junco,1
+US-WA,2026-01-31,Double-crested Cormorant,4
+US-WA,2026-01-31,Gadwall,11
+US-WA,2026-01-31,Great Blue Heron,1
+US-WA,2026-01-31,Greater Scaup,10
+US-WA,2026-01-31,Lesser Scaup,30
+US-WA,2026-01-31,Mallard,41
+US-WA,2026-01-31,Northern Shoveler,3
+US-WA,2026-01-31,Pied-billed Grebe,1
+US-WA,2026-01-31,Redhead,1
+US-WA,2026-01-31,Ring-billed Gull,1
+US-WA,2026-01-31,Ring-necked Duck,3
+US-WA,2026-01-31,Rock Pigeon (Feral Pigeon),20
+US-WA,2026-01-31,Song Sparrow,2
+US-WA,2026-01-31,Spotted Towhee,2
+US-WA,2026-02-01,American Crow,4
+US-WA,2026-02-01,American Robin,1
+US-WA,2026-02-01,Anna's Hummingbird,1
+US-WA,2026-02-01,Bald Eagle,2
+US-WA,2026-02-01,Black-capped Chickadee,2
+US-WA,2026-02-01,Brant,22
+US-WA,2026-02-01,Bufflehead,5
+US-WA,2026-02-01,California Scrub-Jay,1
+US-WA,2026-02-01,Common Goldeneye,1
+US-WA,2026-02-01,Dark-eyed Junco,6
+US-WA,2026-02-01,Double-crested Cormorant,12
+US-WA,2026-02-01,European Starling,1
+US-WA,2026-02-01,Gadwall,2
+US-WA,2026-02-01,Glaucous-winged Gull,2
+US-WA,2026-02-01,Golden-crowned Sparrow,2
+US-WA,2026-02-01,Great Blue Heron,9
+US-WA,2026-02-01,Horned Grebe,3
+US-WA,2026-02-01,House Finch,2
+US-WA,2026-02-01,House Sparrow,1
+US-WA,2026-02-01,Killdeer,6
+US-WA,2026-02-01,Mallard,25
+US-WA,2026-02-01,Pelagic Cormorant,3
+US-WA,2026-02-01,Pigeon Guillemot,2
+US-WA,2026-02-01,Red-breasted Merganser,4
+US-WA,2026-02-01,Red-necked Grebe,1
+US-WA,2026-02-01,Red-winged Blackbird,3
+US-WA,2026-02-01,Rock Pigeon (Feral Pigeon),1
+US-WA,2026-02-01,Ruby-crowned Kinglet,1
+US-WA,2026-02-01,Short-billed Gull,1
+US-WA,2026-02-01,Song Sparrow,1
+US-WA,2026-02-01,Surf Scoter,3
+US-WA,2026-02-01,White-crowned Sparrow,4
+US-WA,2026-02-03,American Crow,1
+US-WA,2026-02-03,Common Merganser,3
+US-WA,2026-02-03,Double-crested Cormorant,30
+US-WA,2026-02-03,European Starling,7
+US-WA,2026-02-03,Lesser Scaup,60
+US-WA,2026-02-03,Rock Pigeon (Feral Pigeon),15
+US-WA,2026-02-03,Song Sparrow,1
+US-WA,2026-02-04,American Crow,33
+US-WA,2026-02-04,American Wigeon,2
+US-WA,2026-02-04,Bald Eagle,2
+US-WA,2026-02-04,Barrow's Goldeneye,6
+US-WA,2026-02-04,Black-capped Chickadee,2
+US-WA,2026-02-04,Bufflehead,1
+US-WA,2026-02-04,Canada Goose,4
+US-WA,2026-02-04,Common Goldeneye,1
+US-WA,2026-02-04,Common Merganser,4
+US-WA,2026-02-04,Double-crested Cormorant,41
+US-WA,2026-02-04,Gadwall,2
+US-WA,2026-02-04,Great Blue Heron,1
+US-WA,2026-02-04,Lesser Scaup,60
+US-WA,2026-02-04,Mallard,22
+US-WA,2026-02-04,Surf Scoter,5
+US-WA,2026-02-08,American Coot,500
+US-WA,2026-02-08,American Crow,5
+US-WA,2026-02-08,American Robin,3
+US-WA,2026-02-08,American Wigeon,6
+US-WA,2026-02-08,Anna's Hummingbird,2
+US-WA,2026-02-08,Bald Eagle,5
+US-WA,2026-02-08,Bewick's Wren,2
+US-WA,2026-02-08,Black-capped Chickadee,4
+US-WA,2026-02-08,Bufflehead,8
+US-WA,2026-02-08,Bushtit,15
+US-WA,2026-02-08,Canada Goose,20
+US-WA,2026-02-08,Common Merganser,1
+US-WA,2026-02-08,Dark-eyed Junco,1
+US-WA,2026-02-08,Double-crested Cormorant,13
+US-WA,2026-02-08,European Starling,2
+US-WA,2026-02-08,Gadwall,7
+US-WA,2026-02-08,Great Blue Heron,3
+US-WA,2026-02-08,Green-winged Teal,2
+US-WA,2026-02-08,Hooded Merganser,4
+US-WA,2026-02-08,House Finch,3
+US-WA,2026-02-08,Mallard,9
+US-WA,2026-02-08,Marsh Wren,1
+US-WA,2026-02-08,Northern Shoveler,14
+US-WA,2026-02-08,Pied-billed Grebe,2
+US-WA,2026-02-08,Red-winged Blackbird,6
+US-WA,2026-02-08,Ring-necked Duck,6
+US-WA,2026-02-08,Ruby-crowned Kinglet,2
+US-WA,2026-02-08,Song Sparrow,2
+US-WA,2026-02-08,Spotted Towhee,6
+US-WA,2026-02-08,Wood Duck,8
+US-WA,2026-02-12,American Crow,30
+US-WA,2026-02-12,American Robin,4
+US-WA,2026-02-12,American Wigeon,12
+US-WA,2026-02-12,Barrow's Goldeneye,6
+US-WA,2026-02-12,Black-capped Chickadee,2
+US-WA,2026-02-12,Brown Creeper,3
+US-WA,2026-02-12,Common Goldeneye,3
+US-WA,2026-02-12,Dark-eyed Junco,2
+US-WA,2026-02-12,Eurasian Wigeon,1
+US-WA,2026-02-12,Golden-crowned Kinglet,10
+US-WA,2026-02-12,Horned Grebe,4
+US-WA,2026-02-12,Killdeer,2
+US-WA,2026-02-12,Mallard,11
+US-WA,2026-02-12,Ruby-crowned Kinglet,1
+US-WA,2026-02-12,Surf Scoter,2
+US-WA,2026-02-13,American Crow,13
+US-WA,2026-02-13,American Robin,2
+US-WA,2026-02-13,Anna's Hummingbird,1
+US-WA,2026-02-13,Bewick's Wren,1
+US-WA,2026-02-13,Dark-eyed Junco,6
+US-WA,2026-02-13,Golden-crowned Sparrow,2
+US-WA,2026-02-13,House Finch,4
+US-WA,2026-02-13,White-crowned Sparrow,1
+US-WA,2026-02-15,Pacific Wren,1
+US-WA,2026-02-16,American Coot,5
+US-WA,2026-02-16,American Crow,12
+US-WA,2026-02-16,American Robin,2
+US-WA,2026-02-16,American Wigeon,6
+US-WA,2026-02-16,Anna's Hummingbird,2
+US-WA,2026-02-16,Belted Kingfisher,1
+US-WA,2026-02-16,Black-capped Chickadee,4
+US-WA,2026-02-16,Bufflehead,6
+US-WA,2026-02-16,California Gull,2
+US-WA,2026-02-16,Canada Goose,16
+US-WA,2026-02-16,Cooper's Hawk,1
+US-WA,2026-02-16,Dark-eyed Junco,4
+US-WA,2026-02-16,Downy Woodpecker,1
+US-WA,2026-02-16,European Starling,13
+US-WA,2026-02-16,Gadwall,6
+US-WA,2026-02-16,Great Blue Heron,1
+US-WA,2026-02-16,Greater Scaup,15
+US-WA,2026-02-16,Mallard,25
+US-WA,2026-02-16,Marsh Wren,1
+US-WA,2026-02-16,Northern Flicker,2
+US-WA,2026-02-16,Northern Shoveler,1
+US-WA,2026-02-16,Pied-billed Grebe,1
+US-WA,2026-02-16,Red-winged Blackbird,10
+US-WA,2026-02-16,Ring-billed Gull,10
+US-WA,2026-02-16,Ring-necked Duck,3
+US-WA,2026-02-16,Ruby-crowned Kinglet,1
+US-WA,2026-02-16,Short-billed Gull,1
+US-WA,2026-02-16,Song Sparrow,1
+US-WA,2026-02-16,Spotted Towhee,1
+US-WA,2026-02-19,Brown Creeper,1
+US-WA,2026-02-21,American Crow,60
+US-WA,2026-02-21,American Robin,15
+US-WA,2026-02-21,American Wigeon,2
+US-WA,2026-02-21,Anna's Hummingbird,1
+US-WA,2026-02-21,Barrow's Goldeneye,4
+US-WA,2026-02-21,Common Goldeneye,6
+US-WA,2026-02-21,Dark-eyed Junco,3
+US-WA,2026-02-21,Double-crested Cormorant,2
+US-WA,2026-02-21,Glaucous-winged Gull,4
+US-WA,2026-02-21,Great Blue Heron,3
+US-WA,2026-02-21,Harlequin Duck,1
+US-WA,2026-02-21,Horned Grebe,6
+US-WA,2026-02-21,Killdeer,2
+US-WA,2026-02-21,Mallard,7
+US-WA,2026-02-21,Red-breasted Merganser,1
+US-WA,2026-02-21,Ruby-crowned Kinglet,1
+US-WA,2026-02-21,Short-billed Gull,1
+US-WA,2026-02-21,Song Sparrow,5
+US-WA,2026-02-21,Spotted Towhee,1
+US-WA,2026-02-21,Townsend's Warbler,1
+US-WA,2026-02-21,Yellow-rumped Warbler,2
+US-WA,2026-02-22,American Coot,2
+US-WA,2026-02-22,American Crow,30
+US-WA,2026-02-22,American Robin,6
+US-WA,2026-02-22,Bald Eagle,2
+US-WA,2026-02-22,Belted Kingfisher,2
+US-WA,2026-02-22,Black-capped Chickadee,4
+US-WA,2026-02-22,Brown Creeper,3
+US-WA,2026-02-22,Bufflehead,12
+US-WA,2026-02-22,Bushtit,8
+US-WA,2026-02-22,Canada Goose,13
+US-WA,2026-02-22,Common Merganser,2
+US-WA,2026-02-22,Dark-eyed Junco,2
+US-WA,2026-02-22,Double-crested Cormorant,19
+US-WA,2026-02-22,European Starling,2
+US-WA,2026-02-22,Fox Sparrow,1
+US-WA,2026-02-22,Gadwall,11
+US-WA,2026-02-22,Golden-crowned Sparrow,7
+US-WA,2026-02-22,Great Blue Heron,38
+US-WA,2026-02-22,Green-winged Teal,2
+US-WA,2026-02-22,Mallard,19
+US-WA,2026-02-22,Northern Flicker,1
+US-WA,2026-02-22,Pied-billed Grebe,4
+US-WA,2026-02-22,Red-breasted Nuthatch,2
+US-WA,2026-02-22,Red-winged Blackbird,3
+US-WA,2026-02-22,Ruby-crowned Kinglet,1
+US-WA,2026-02-22,Song Sparrow,5
+US-WA,2026-02-22,Spotted Towhee,6
+US-WA,2026-02-23,American Crow,3
+US-WA,2026-02-23,Anna's Hummingbird,1
+US-WA,2026-02-23,Bewick's Wren,1
+US-WA,2026-02-23,Black-capped Chickadee,2
+US-WA,2026-02-23,Common Merganser,2
+US-WA,2026-02-23,Lesser Scaup,35
+US-WA,2026-02-27,American Coot,1
+US-WA,2026-02-27,American Crow,5
+US-WA,2026-02-27,American Robin,5
+US-WA,2026-02-27,American Wigeon,2
+US-WA,2026-02-27,Anna's Hummingbird,2
+US-WA,2026-02-27,Bald Eagle,3
+US-WA,2026-02-27,Black-capped Chickadee,3
+US-WA,2026-02-27,Bufflehead,5
+US-WA,2026-02-27,Bushtit,1
+US-WA,2026-02-27,Canada Goose,5
+US-WA,2026-02-27,Cinnamon Teal,1
+US-WA,2026-02-27,Common Merganser,7
+US-WA,2026-02-27,Cooper's Hawk,1
+US-WA,2026-02-27,Dark-eyed Junco,2
+US-WA,2026-02-27,Eurasian Collared-Dove,3
+US-WA,2026-02-27,European Starling,1
+US-WA,2026-02-27,Gadwall,7
+US-WA,2026-02-27,Golden-crowned Kinglet,1
+US-WA,2026-02-27,Great Blue Heron,4
+US-WA,2026-02-27,Greater Yellowlegs,2
+US-WA,2026-02-27,Green-winged Teal,24
+US-WA,2026-02-27,House Finch,1
+US-WA,2026-02-27,Killdeer,5
+US-WA,2026-02-27,Lesser Scaup,500
+US-WA,2026-02-27,Mallard,56
+US-WA,2026-02-27,Marsh Wren,1
+US-WA,2026-02-27,Northern Flicker,2
+US-WA,2026-02-27,Northern Harrier,1
+US-WA,2026-02-27,Northern Pintail,100
+US-WA,2026-02-27,Northern Shoveler,36
+US-WA,2026-02-27,Red-winged Blackbird,2
+US-WA,2026-02-27,Ring-necked Duck,103
+US-WA,2026-02-27,Rock Pigeon (Feral Pigeon),2
+US-WA,2026-02-27,Ruby-crowned Kinglet,2
+US-WA,2026-02-27,Ruddy Duck,2
+US-WA,2026-02-27,Short-billed Gull,5
+US-WA,2026-02-27,Song Sparrow,5
+US-WA,2026-02-27,Spotted Towhee,1
+US-WA,2026-02-27,Tree Swallow,3
+US-WA,2026-02-27,Wilson's Snipe,1
+US-WA,2026-02-27,Yellow-rumped Warbler,1
+US-WA,2026-03-01,American Coot,28
+US-WA,2026-03-01,American Crow,25
+US-WA,2026-03-01,American Robin,2
+US-WA,2026-03-01,American Wigeon,3
+US-WA,2026-03-01,Anna's Hummingbird,5
+US-WA,2026-03-01,Bald Eagle,3
+US-WA,2026-03-01,Barn Swallow,1
+US-WA,2026-03-01,Belted Kingfisher,1
+US-WA,2026-03-01,Bewick's Wren,1
+US-WA,2026-03-01,Black-capped Chickadee,10
+US-WA,2026-03-01,Bufflehead,3
+US-WA,2026-03-01,Bushtit,20
+US-WA,2026-03-01,Canada Goose,26
+US-WA,2026-03-01,Common Goldeneye,6
+US-WA,2026-03-01,Common Merganser,4
+US-WA,2026-03-01,Cooper's Hawk,1
+US-WA,2026-03-01,Dark-eyed Junco,3
+US-WA,2026-03-01,Double-crested Cormorant,25
+US-WA,2026-03-01,Downy Woodpecker,2
+US-WA,2026-03-01,European Starling,1
+US-WA,2026-03-01,Gadwall,6
+US-WA,2026-03-01,Golden-crowned Sparrow,2
+US-WA,2026-03-01,Great Blue Heron,21
+US-WA,2026-03-01,Green Heron,1
+US-WA,2026-03-01,Green-winged Teal,2
+US-WA,2026-03-01,Hooded Merganser,5
+US-WA,2026-03-01,House Finch,3
+US-WA,2026-03-01,Lesser Scaup,2
+US-WA,2026-03-01,Mallard,15
+US-WA,2026-03-01,Marsh Wren,1
+US-WA,2026-03-01,Northern Flicker,2
+US-WA,2026-03-01,Northern Shoveler,4
+US-WA,2026-03-01,Pied-billed Grebe,4
+US-WA,2026-03-01,Pileated Woodpecker,2
+US-WA,2026-03-01,Red-tailed Hawk,1
+US-WA,2026-03-01,Red-winged Blackbird,7
+US-WA,2026-03-01,Ring-necked Duck,3
+US-WA,2026-03-01,Rock Pigeon (Feral Pigeon),2
+US-WA,2026-03-01,Song Sparrow,2
+US-WA,2026-03-01,Spotted Towhee,1
+US-WA,2026-03-01,Tree Swallow,2
+US-WA,2026-03-01,Wood Duck,6
+US-WA,2026-03-01,Yellow-rumped Warbler,1
+US-WA,2026-03-02,American Coot,22
+US-WA,2026-03-02,American Crow,20
+US-WA,2026-03-02,American Robin,10
+US-WA,2026-03-02,American Wigeon,60
+US-WA,2026-03-02,Anna's Hummingbird,5
+US-WA,2026-03-02,Bald Eagle,1
+US-WA,2026-03-02,Black-capped Chickadee,7
+US-WA,2026-03-02,Brown Creeper,1
+US-WA,2026-03-02,Bufflehead,2
+US-WA,2026-03-02,Bushtit,10
+US-WA,2026-03-02,Canada Goose,31
+US-WA,2026-03-02,Common Goldeneye,1
+US-WA,2026-03-02,Common Merganser,1
+US-WA,2026-03-02,Dark-eyed Junco,2
+US-WA,2026-03-02,Double-crested Cormorant,2
+US-WA,2026-03-02,Eurasian Wigeon,2
+US-WA,2026-03-02,Gadwall,12
+US-WA,2026-03-02,Mallard,30
+US-WA,2026-03-02,Northern Flicker,3
+US-WA,2026-03-02,Northern Shoveler,3
+US-WA,2026-03-02,Red-winged Blackbird,1
+US-WA,2026-03-02,Rock Pigeon (Feral Pigeon),25
+US-WA,2026-03-02,Ruby-crowned Kinglet,1
+US-WA,2026-03-02,Song Sparrow,3
+US-WA,2026-03-02,Yellow-rumped Warbler,2
+US-WA,2026-03-05,American Coot,30
+US-WA,2026-03-05,American Crow,4
+US-WA,2026-03-05,American Goldfinch,2
+US-WA,2026-03-05,American Robin,5
+US-WA,2026-03-05,Anna's Hummingbird,2
+US-WA,2026-03-05,Bald Eagle,1
+US-WA,2026-03-05,Black-capped Chickadee,5
+US-WA,2026-03-05,Bufflehead,10
+US-WA,2026-03-05,Bushtit,5
+US-WA,2026-03-05,Common Merganser,2
+US-WA,2026-03-05,Dark-eyed Junco,2
+US-WA,2026-03-05,Double-crested Cormorant,70
+US-WA,2026-03-05,Downy Woodpecker,1
+US-WA,2026-03-05,Gadwall,1
+US-WA,2026-03-05,Glaucous-winged Gull,1
+US-WA,2026-03-05,Great Blue Heron,1
+US-WA,2026-03-05,Green-winged Teal,10
+US-WA,2026-03-05,Hooded Merganser,1
+US-WA,2026-03-05,Killdeer,1
+US-WA,2026-03-05,Mallard,12
+US-WA,2026-03-05,Northern Flicker,2
+US-WA,2026-03-05,Red-winged Blackbird,2
+US-WA,2026-03-05,Song Sparrow,3
+US-WA,2026-03-05,Spotted Towhee,2
+US-WA,2026-03-05,Trumpeter Swan,2
+US-WA,2026-03-05,Wood Duck,30
+US-WA,2026-03-08,American Coot,35
+US-WA,2026-03-08,American Crow,12
+US-WA,2026-03-08,American Robin,13
+US-WA,2026-03-08,American Wigeon,15
+US-WA,2026-03-08,Anna's Hummingbird,5
+US-WA,2026-03-08,Bald Eagle,3
+US-WA,2026-03-08,Belted Kingfisher,1
+US-WA,2026-03-08,Bewick's Wren,1
+US-WA,2026-03-08,Black-capped Chickadee,5
+US-WA,2026-03-08,Bufflehead,6
+US-WA,2026-03-08,Bushtit,2
+US-WA,2026-03-08,Canada Goose,20
+US-WA,2026-03-08,Chestnut-backed Chickadee,1
+US-WA,2026-03-08,Common Goldeneye,10
+US-WA,2026-03-08,Common Merganser,5
+US-WA,2026-03-08,Dark-eyed Junco,19
+US-WA,2026-03-08,Double-crested Cormorant,31
+US-WA,2026-03-08,Downy Woodpecker,1
+US-WA,2026-03-08,Fox Sparrow,1
+US-WA,2026-03-08,Gadwall,4
+US-WA,2026-03-08,Golden-crowned Kinglet,2
+US-WA,2026-03-08,Golden-crowned Sparrow,2
+US-WA,2026-03-08,Great Blue Heron,1
+US-WA,2026-03-08,Green-winged Teal,1
+US-WA,2026-03-08,Hairy Woodpecker,2
+US-WA,2026-03-08,Hooded Merganser,2
+US-WA,2026-03-08,Horned Grebe,7
+US-WA,2026-03-08,Lesser Scaup,5
+US-WA,2026-03-08,Mallard,21
+US-WA,2026-03-08,Marsh Wren,1
+US-WA,2026-03-08,Northern Flicker,9
+US-WA,2026-03-08,Northern Shoveler,30
+US-WA,2026-03-08,Pacific Wren,1
+US-WA,2026-03-08,Pelagic Cormorant,2
+US-WA,2026-03-08,Pied-billed Grebe,2
+US-WA,2026-03-08,Pigeon Guillemot,1
+US-WA,2026-03-08,Red-breasted Merganser,2
+US-WA,2026-03-08,Red-necked Grebe,3
+US-WA,2026-03-08,Red-tailed Hawk,1
+US-WA,2026-03-08,Red-winged Blackbird,6
+US-WA,2026-03-08,Ring-necked Duck,7
+US-WA,2026-03-08,Ruby-crowned Kinglet,2
+US-WA,2026-03-08,Song Sparrow,8
+US-WA,2026-03-08,Spotted Towhee,10
+US-WA,2026-03-08,Surf Scoter,4
+US-WA,2026-03-08,Tree Swallow,10
+US-WA,2026-03-08,Varied Thrush,1
+US-WA,2026-03-08,Wood Duck,7
+US-WA,2026-03-08,Yellow-rumped Warbler,1
+US-WA,2026-03-12,American Coot,30
+US-WA,2026-03-12,American Crow,40
+US-WA,2026-03-12,American Wigeon,90
+US-WA,2026-03-12,Bufflehead,10
+US-WA,2026-03-12,Canada Goose,35
+US-WA,2026-03-12,Common Merganser,10
+US-WA,2026-03-12,Dark-eyed Junco,1
+US-WA,2026-03-12,Eurasian Wigeon,1
+US-WA,2026-03-12,Gadwall,6
+US-WA,2026-03-12,Mallard,15
+US-WA,2026-03-12,Northern Shoveler,8
+US-WA,2026-03-12,Pied-billed Grebe,1
+US-WA,2026-03-14,American Crow,30
+US-WA,2026-03-14,American Robin,30
+US-WA,2026-03-14,American Wigeon,11
+US-WA,2026-03-14,Anna's Hummingbird,1
+US-WA,2026-03-14,Barrow's Goldeneye,12
+US-WA,2026-03-14,Belted Kingfisher,1
+US-WA,2026-03-14,Bufflehead,2
+US-WA,2026-03-14,Dark-eyed Junco,5
+US-WA,2026-03-14,Eurasian Wigeon,1
+US-WA,2026-03-14,Glaucous-winged Gull,4
+US-WA,2026-03-14,Horned Grebe,5
+US-WA,2026-03-14,Killdeer,1
+US-WA,2026-03-14,Mallard,6
+US-WA,2026-03-14,Ruby-crowned Kinglet,1
+US-WA,2026-03-14,Song Sparrow,1
+US-WA,2026-03-14,Spotted Towhee,1
+US-WA,2026-03-14,Surf Scoter,6
+US-WA,2026-03-14,Yellow-rumped Warbler,2
+US-WA,2026-03-15,American Coot,13
+US-WA,2026-03-15,American Crow,9
+US-WA,2026-03-15,American Robin,6
+US-WA,2026-03-15,American Wigeon,13
+US-WA,2026-03-15,Anna's Hummingbird,3
+US-WA,2026-03-15,Bald Eagle,6
+US-WA,2026-03-15,Black-capped Chickadee,2
+US-WA,2026-03-15,Brown Creeper,1
+US-WA,2026-03-15,Bufflehead,17
+US-WA,2026-03-15,Bushtit,4
+US-WA,2026-03-15,Canada Goose,14
+US-WA,2026-03-15,Common Merganser,9
+US-WA,2026-03-15,Cooper's Hawk,1
+US-WA,2026-03-15,Dark-eyed Junco,6
+US-WA,2026-03-15,Double-crested Cormorant,2
+US-WA,2026-03-15,European Starling,2
+US-WA,2026-03-15,Gadwall,5
+US-WA,2026-03-15,Golden-crowned Sparrow,2
+US-WA,2026-03-15,Great Blue Heron,7
+US-WA,2026-03-15,Green-winged Teal,5
+US-WA,2026-03-15,Hooded Merganser,7
+US-WA,2026-03-15,House Finch,2
+US-WA,2026-03-15,Mallard,21
+US-WA,2026-03-15,Northern Flicker,1
+US-WA,2026-03-15,Northern Shoveler,15
+US-WA,2026-03-15,Pied-billed Grebe,3
+US-WA,2026-03-15,Red-tailed Hawk,1
+US-WA,2026-03-15,Red-winged Blackbird,4
+US-WA,2026-03-15,Ring-necked Duck,10
+US-WA,2026-03-15,Ruby-crowned Kinglet,1
+US-WA,2026-03-15,Song Sparrow,6
+US-WA,2026-03-15,Spotted Towhee,2
+US-WA,2026-03-15,Steller's Jay,2
+US-WA,2026-03-15,Tree Swallow,5
+US-WA,2026-03-15,Wood Duck,9
+US-WA,2026-03-15,Yellow-rumped Warbler,3
+US-WA,2026-03-19,American Coot,30
+US-WA,2026-03-19,American Crow,1
+US-WA,2026-03-19,American Kestrel,1
+US-WA,2026-03-19,American Robin,1
+US-WA,2026-03-19,Black-billed Magpie,1
+US-WA,2026-03-19,Burrowing Owl,1
+US-WA,2026-03-19,Common Raven,2
+US-WA,2026-03-19,Dark-eyed Junco,4
+US-WA,2026-03-19,Eurasian Collared-Dove,1
+US-WA,2026-03-19,Horned Lark,2
+US-WA,2026-03-19,Killdeer,7
+US-WA,2026-03-19,Lesser Scaup,2
+US-WA,2026-03-19,Mountain Bluebird,7
+US-WA,2026-03-19,Red-tailed Hawk,1
+US-WA,2026-03-19,Red-winged Blackbird,10
+US-WA,2026-03-19,Ruby-crowned Kinglet,1
+US-WA,2026-03-19,Sandhill Crane,1
+US-WA,2026-03-19,Tree Swallow,5
+US-WA,2026-03-19,Western Meadowlark,1
+US-WA,2026-03-19,Yellow-rumped Warbler,1
+US-WA,2026-03-20,American Coot,78
+US-WA,2026-03-20,American Robin,9
+US-WA,2026-03-20,Bald Eagle,3
+US-WA,2026-03-20,Black-crowned Night Heron,1
+US-WA,2026-03-20,Bufflehead,8
+US-WA,2026-03-20,California Gull,100
+US-WA,2026-03-20,California Quail,13
+US-WA,2026-03-20,Canada Goose,3
+US-WA,2026-03-20,Common Raven,2
+US-WA,2026-03-20,Dark-eyed Junco,3
+US-WA,2026-03-20,Double-crested Cormorant,30
+US-WA,2026-03-20,Downy Woodpecker,1
+US-WA,2026-03-20,European Starling,12
+US-WA,2026-03-20,Glaucous-winged Gull,1
+US-WA,2026-03-20,Great Blue Heron,1
+US-WA,2026-03-20,Great Horned Owl,1
+US-WA,2026-03-20,House Finch,1
+US-WA,2026-03-20,Killdeer,11
+US-WA,2026-03-20,Lesser Scaup,20
+US-WA,2026-03-20,Mallard,8
+US-WA,2026-03-20,Mourning Dove,1
+US-WA,2026-03-20,Red-winged Blackbird,50
+US-WA,2026-03-20,Ring-billed Gull,100
+US-WA,2026-03-20,Ring-necked Pheasant,1
+US-WA,2026-03-20,Sandhill Crane,6
+US-WA,2026-03-20,Say's Phoebe,4
+US-WA,2026-03-20,Snow Goose,1000
+US-WA,2026-03-20,Tree Swallow,20
+US-WA,2026-03-20,White-crowned Sparrow,3
+US-WA,2026-03-21,American Coot,70
+US-WA,2026-03-21,American Robin,3
+US-WA,2026-03-21,American White Pelican,3
+US-WA,2026-03-21,Bald Eagle,1
+US-WA,2026-03-21,Brown-headed Cowbird,1
+US-WA,2026-03-21,Bufflehead,2
+US-WA,2026-03-21,California Quail,5
+US-WA,2026-03-21,Canada Goose,103
+US-WA,2026-03-21,Canyon Wren,1
+US-WA,2026-03-21,Common Goldeneye,3
+US-WA,2026-03-21,Dark-eyed Junco,2
+US-WA,2026-03-21,Eurasian Collared-Dove,2
+US-WA,2026-03-21,European Starling,6
+US-WA,2026-03-21,Great Horned Owl,1
+US-WA,2026-03-21,Green-winged Teal,2
+US-WA,2026-03-21,House Finch,1
+US-WA,2026-03-21,Killdeer,4
+US-WA,2026-03-21,Marsh Wren,1
+US-WA,2026-03-21,Northern Flicker,2
+US-WA,2026-03-21,Red-winged Blackbird,7
+US-WA,2026-03-21,Say's Phoebe,1
+US-WA,2026-03-21,Tree Swallow,15
+US-WA,2026-03-21,Tricolored Blackbird,1
+US-WA,2026-03-21,Varied Thrush,1
+US-WA,2026-03-21,Violet-green Swallow,10
+US-WA,2026-03-21,Western Meadowlark,3
+US-WA,2026-03-21,White-crowned Sparrow,5
+US-WA,2026-03-21,Yellow-headed Blackbird,1
+US-WA,2026-03-22,American Crow,4
+US-WA,2026-03-22,American Kestrel,1
+US-WA,2026-03-22,American Robin,3
+US-WA,2026-03-22,Black-billed Magpie,2
+US-WA,2026-03-22,Brewer's Blackbird,2
+US-WA,2026-03-22,Brown-headed Cowbird,3
+US-WA,2026-03-22,Chukar,2
+US-WA,2026-03-22,Common Raven,2
+US-WA,2026-03-22,Eurasian Collared-Dove,1
+US-WA,2026-03-22,Great Blue Heron,2
+US-WA,2026-03-22,Great Horned Owl,3
+US-WA,2026-03-22,House Finch,2
+US-WA,2026-03-22,House Sparrow,2
+US-WA,2026-03-22,Loggerhead Shrike,1
+US-WA,2026-03-22,Long-billed Curlew,1
+US-WA,2026-03-22,Northern Flicker,1
+US-WA,2026-03-22,Northern Pintail,1
+US-WA,2026-03-22,Red-tailed Hawk,3
+US-WA,2026-03-22,Red-winged Blackbird,8
+US-WA,2026-03-22,Sandhill Crane,20
+US-WA,2026-03-22,Snow Goose,1001
+US-WA,2026-03-22,Western Meadowlark,3
+US-WA,2026-03-22,Wilson's Snipe,4
+US-WA,2026-03-22,Yellow-headed Blackbird,1
+US-WA,2026-04-05,American Coot,15
+US-WA,2026-04-05,American Crow,20
+US-WA,2026-04-05,American Robin,3
+US-WA,2026-04-05,Anna's Hummingbird,5
+US-WA,2026-04-05,Black-capped Chickadee,8
+US-WA,2026-04-05,Bufflehead,5
+US-WA,2026-04-05,Bushtit,4
+US-WA,2026-04-05,Canada Goose,10
+US-WA,2026-04-05,Common Merganser,4
+US-WA,2026-04-05,Dark-eyed Junco,1
+US-WA,2026-04-05,Double-crested Cormorant,5
+US-WA,2026-04-05,Downy Woodpecker,4
+US-WA,2026-04-05,European Starling,1
+US-WA,2026-04-05,Gadwall,2
+US-WA,2026-04-05,Golden-crowned Sparrow,2
+US-WA,2026-04-05,Great Blue Heron,2
+US-WA,2026-04-05,Killdeer,1
+US-WA,2026-04-05,Lesser Scaup,2
+US-WA,2026-04-05,Mallard,5
+US-WA,2026-04-05,Marsh Wren,3
+US-WA,2026-04-05,Northern Flicker,2
+US-WA,2026-04-05,Northern Shoveler,15
+US-WA,2026-04-05,Osprey,1
+US-WA,2026-04-05,Pied-billed Grebe,3
+US-WA,2026-04-05,Red-tailed Hawk,1
+US-WA,2026-04-05,Red-winged Blackbird,11
+US-WA,2026-04-05,Ring-necked Duck,8
+US-WA,2026-04-05,Ruby-crowned Kinglet,1
+US-WA,2026-04-05,Song Sparrow,4
+US-WA,2026-04-05,Spotted Towhee,2
+US-WA,2026-04-05,Tree Swallow,4
+US-WA,2026-04-05,Yellow-rumped Warbler,4
+US-WA,2026-04-06,American Crow,2
+US-WA,2026-04-06,Anna's Hummingbird,1
+US-WA,2026-04-06,Black-capped Chickadee,1
+US-WA,2026-04-06,Canada Goose,3
+US-WA,2026-04-06,Common Merganser,1
+US-WA,2026-04-06,Downy Woodpecker,1
+US-WA,2026-04-06,Glaucous-winged Gull,1
+US-WA,2026-04-06,Great Blue Heron,1
+US-WA,2026-04-06,Mallard,3
+US-WA,2026-04-06,Rock Pigeon (Feral Pigeon),4
+US-WA,2026-04-06,White-crowned Sparrow,1
+US-WA,2026-04-08,American Crow,6
+US-WA,2026-04-08,American Robin,1
+US-WA,2026-04-08,Anna's Hummingbird,2
+US-WA,2026-04-08,Black-capped Chickadee,1
+US-WA,2026-04-08,Bushtit,2
+US-WA,2026-04-08,Common Merganser,1
+US-WA,2026-04-08,Dark-eyed Junco,2
+US-WA,2026-04-08,House Sparrow,4
+US-WA,2026-04-08,Mallard,1
+US-WA,2026-04-08,Rock Pigeon (Feral Pigeon),11
+US-WA,2026-04-08,Song Sparrow,1
+US-WA,2026-04-10,American Coot,3
+US-WA,2026-04-10,American Crow,10
+US-WA,2026-04-10,American Robin,5
+US-WA,2026-04-10,American Wigeon,2
+US-WA,2026-04-10,Anna's Hummingbird,3
+US-WA,2026-04-10,Bald Eagle,5
+US-WA,2026-04-10,Band-tailed Pigeon,1
+US-WA,2026-04-10,Barn Swallow,4
+US-WA,2026-04-10,Black Phoebe,2
+US-WA,2026-04-10,Black-capped Chickadee,1
+US-WA,2026-04-10,Bufflehead,3
+US-WA,2026-04-10,Canada Goose,7
+US-WA,2026-04-10,Common Goldeneye,1
+US-WA,2026-04-10,Common Merganser,2
+US-WA,2026-04-10,Dark-eyed Junco,3
+US-WA,2026-04-10,Double-crested Cormorant,3
+US-WA,2026-04-10,Downy Woodpecker,2
+US-WA,2026-04-10,European Starling,3
+US-WA,2026-04-10,Gadwall,9
+US-WA,2026-04-10,Glaucous-winged Gull,4
+US-WA,2026-04-10,Golden-crowned Sparrow,3
+US-WA,2026-04-10,Great Blue Heron,8
+US-WA,2026-04-10,Greater Yellowlegs,6
+US-WA,2026-04-10,Green-winged Teal,15
+US-WA,2026-04-10,Horned Grebe,4
+US-WA,2026-04-10,House Finch,5
+US-WA,2026-04-10,House Sparrow,7
+US-WA,2026-04-10,Killdeer,5
+US-WA,2026-04-10,Lincoln's Sparrow,1
+US-WA,2026-04-10,Mallard,25
+US-WA,2026-04-10,Marsh Wren,2
+US-WA,2026-04-10,Northern Harrier,2
+US-WA,2026-04-10,Northern Shoveler,6
+US-WA,2026-04-10,Pied-billed Grebe,2
+US-WA,2026-04-10,Pigeon Guillemot,2
+US-WA,2026-04-10,Red-winged Blackbird,9
+US-WA,2026-04-10,Ring-necked Duck,5
+US-WA,2026-04-10,Rock Pigeon (Feral Pigeon),4
+US-WA,2026-04-10,Ruby-crowned Kinglet,1
+US-WA,2026-04-10,Savannah Sparrow,1
+US-WA,2026-04-10,Song Sparrow,9
+US-WA,2026-04-10,Spotted Towhee,2
+US-WA,2026-04-10,Tree Swallow,5
+US-WA,2026-04-10,Violet-green Swallow,4
+US-WA,2026-04-10,White-crowned Sparrow,1
+US-WA,2026-04-10,Yellow-rumped Warbler,1
+US-WA,2026-04-12,American Coot,8
+US-WA,2026-04-12,American Crow,9
+US-WA,2026-04-12,American Goldfinch,6
+US-WA,2026-04-12,American Robin,6
+US-WA,2026-04-12,Anna's Hummingbird,4
+US-WA,2026-04-12,Bald Eagle,5
+US-WA,2026-04-12,Black-capped Chickadee,7
+US-WA,2026-04-12,Brown Creeper,1
+US-WA,2026-04-12,Bufflehead,7
+US-WA,2026-04-12,Bushtit,5
+US-WA,2026-04-12,Canada Goose,24
+US-WA,2026-04-12,Common Merganser,4
+US-WA,2026-04-12,Dark-eyed Junco,4
+US-WA,2026-04-12,Double-crested Cormorant,6
+US-WA,2026-04-12,Downy Woodpecker,2
+US-WA,2026-04-12,European Starling,1
+US-WA,2026-04-12,Gadwall,8
+US-WA,2026-04-12,Golden-crowned Sparrow,6
+US-WA,2026-04-12,Great Blue Heron,6
+US-WA,2026-04-12,House Finch,5
+US-WA,2026-04-12,Killdeer,1
+US-WA,2026-04-12,Mallard,9
+US-WA,2026-04-12,Marsh Wren,3
+US-WA,2026-04-12,Northern Flicker,3
+US-WA,2026-04-12,Northern Shoveler,6
+US-WA,2026-04-12,Osprey,2
+US-WA,2026-04-12,Pied-billed Grebe,1
+US-WA,2026-04-12,Pileated Woodpecker,1
+US-WA,2026-04-12,Red-winged Blackbird,6
+US-WA,2026-04-12,Ring-necked Duck,2
+US-WA,2026-04-12,Song Sparrow,7
+US-WA,2026-04-12,Spotted Towhee,5
+US-WA,2026-04-12,Tree Swallow,10
+US-WA,2026-04-12,White-crowned Sparrow,2
+US-WA,2026-04-12,Wood Duck,3
+US-WA,2026-04-12,Yellow-rumped Warbler,7
+US-WA,2026-04-16,American Robin,1
+US-WA,2026-04-16,Anna's Hummingbird,1
+US-WA,2026-04-16,Bald Eagle,1
+US-WA,2026-04-16,Belted Kingfisher,2
+US-WA,2026-04-16,Black-bellied Plover,1
+US-WA,2026-04-16,Bufflehead,5
+US-WA,2026-04-16,Chestnut-backed Chickadee,1
+US-WA,2026-04-16,Common Raven,1
+US-WA,2026-04-16,Great Blue Heron,1
+US-WA,2026-04-16,Greater Yellowlegs,1
+US-WA,2026-04-16,Green-winged Teal,6
+US-WA,2026-04-16,Killdeer,1
+US-WA,2026-04-16,Mallard,2
+US-WA,2026-04-16,Orange-crowned Warbler,4
+US-WA,2026-04-16,Surf Scoter,7
+US-WA,2026-04-16,White-crowned Sparrow,2
+US-WA,2026-04-17,American Crow,5
+US-WA,2026-04-17,American Robin,2
+US-WA,2026-04-17,American Wigeon,17
+US-WA,2026-04-17,Bald Eagle,7
+US-WA,2026-04-17,Barn Swallow,1
+US-WA,2026-04-17,Belted Kingfisher,5
+US-WA,2026-04-17,Black Oystercatcher,2
+US-WA,2026-04-17,Black Turnstone,3
+US-WA,2026-04-17,Black-bellied Plover,3
+US-WA,2026-04-17,Black-capped Chickadee,1
+US-WA,2026-04-17,Bufflehead,16
+US-WA,2026-04-17,Canada Goose,7
+US-WA,2026-04-17,Caspian Tern,2
+US-WA,2026-04-17,Common Goldeneye,1
+US-WA,2026-04-17,Common Merganser,5
+US-WA,2026-04-17,Common Murre,2
+US-WA,2026-04-17,Double-crested Cormorant,1
+US-WA,2026-04-17,Eurasian Wigeon,2
+US-WA,2026-04-17,European Starling,1
+US-WA,2026-04-17,Glaucous-winged Gull,1
+US-WA,2026-04-17,Great Blue Heron,6
+US-WA,2026-04-17,Green-winged Teal,3
+US-WA,2026-04-17,Harlequin Duck,6
+US-WA,2026-04-17,Hooded Merganser,2
+US-WA,2026-04-17,Hudsonian Whimbrel,1
+US-WA,2026-04-17,Killdeer,8
+US-WA,2026-04-17,Mallard,8
+US-WA,2026-04-17,Marbled Murrelet,1
+US-WA,2026-04-17,Northern Flicker,1
+US-WA,2026-04-17,Northern Pintail,2
+US-WA,2026-04-17,Pelagic Cormorant,6
+US-WA,2026-04-17,Pigeon Guillemot,6
+US-WA,2026-04-17,Red Crossbill,2
+US-WA,2026-04-17,Red-breasted Merganser,2
+US-WA,2026-04-17,Red-necked Grebe,3
+US-WA,2026-04-17,Red-winged Blackbird,3
+US-WA,2026-04-17,Rhinoceros Auklet,4
+US-WA,2026-04-17,Rock Pigeon (Feral Pigeon),2
+US-WA,2026-04-17,Savannah Sparrow,1
+US-WA,2026-04-17,Short-billed Gull,3
+US-WA,2026-04-17,Song Sparrow,1
+US-WA,2026-04-17,Surf Scoter,6
+US-WA,2026-04-17,Violet-green Swallow,1
+US-WA,2026-04-17,White-crowned Sparrow,2
+US-WA,2026-04-17,White-winged Scoter,7
+US-WA,2026-04-17,Wilson's Snipe,2
+US-WA,2026-04-18,American Crow,8
+US-WA,2026-04-18,American Robin,6
+US-WA,2026-04-18,Anna's Hummingbird,3
+US-WA,2026-04-18,Bald Eagle,7
+US-WA,2026-04-18,Band-tailed Pigeon,3
+US-WA,2026-04-18,Barn Swallow,2
+US-WA,2026-04-18,Barred Owl,1
+US-WA,2026-04-18,Belted Kingfisher,4
+US-WA,2026-04-18,Black Oystercatcher,12
+US-WA,2026-04-18,Black Turnstone,7
+US-WA,2026-04-18,Black-bellied Plover,7
+US-WA,2026-04-18,Black-capped Chickadee,1
+US-WA,2026-04-18,Brandt's Cormorant,7
+US-WA,2026-04-18,Brant,70
+US-WA,2026-04-18,Brown Creeper,2
+US-WA,2026-04-18,Bufflehead,31
+US-WA,2026-04-18,Canada Goose,8
+US-WA,2026-04-18,Chestnut-backed Chickadee,3
+US-WA,2026-04-18,Common Loon,6
+US-WA,2026-04-18,Common Merganser,6
+US-WA,2026-04-18,Common Murre,1
+US-WA,2026-04-18,Common Raven,2
+US-WA,2026-04-18,Dark-eyed Junco,1
+US-WA,2026-04-18,Double-crested Cormorant,2
+US-WA,2026-04-18,European Starling,2
+US-WA,2026-04-18,Glaucous-winged Gull,1
+US-WA,2026-04-18,Golden-crowned Sparrow,1
+US-WA,2026-04-18,Great Blue Heron,10
+US-WA,2026-04-18,Greater Yellowlegs,2
+US-WA,2026-04-18,Green-winged Teal,4
+US-WA,2026-04-18,Harlequin Duck,19
+US-WA,2026-04-18,Hooded Merganser,1
+US-WA,2026-04-18,Horned Grebe,7
+US-WA,2026-04-18,House Finch,1
+US-WA,2026-04-18,Killdeer,2
+US-WA,2026-04-18,Lesser Scaup,1
+US-WA,2026-04-18,Long-tailed Duck,4
+US-WA,2026-04-18,Mallard,8
+US-WA,2026-04-18,Marbled Murrelet,2
+US-WA,2026-04-18,Northern Rough-winged Swallow,2
+US-WA,2026-04-18,Orange-crowned Warbler,2
+US-WA,2026-04-18,Pacific Loon,1
+US-WA,2026-04-18,Pelagic Cormorant,13
+US-WA,2026-04-18,Pied-billed Grebe,1
+US-WA,2026-04-18,Pigeon Guillemot,5
+US-WA,2026-04-18,Purple Finch,1
+US-WA,2026-04-18,Red-breasted Merganser,14
+US-WA,2026-04-18,Red-necked Grebe,2
+US-WA,2026-04-18,Red-tailed Hawk,1
+US-WA,2026-04-18,Red-throated Loon,2
+US-WA,2026-04-18,Red-winged Blackbird,1
+US-WA,2026-04-18,Rhinoceros Auklet,3
+US-WA,2026-04-18,Ring-necked Duck,1
+US-WA,2026-04-18,Rock Pigeon (Feral Pigeon),20
+US-WA,2026-04-18,Ruby-crowned Kinglet,1
+US-WA,2026-04-18,Rufous Hummingbird,2
+US-WA,2026-04-18,Sanderling,1
+US-WA,2026-04-18,Short-billed Dowitcher,4
+US-WA,2026-04-18,Short-billed Gull,4
+US-WA,2026-04-18,Song Sparrow,4
+US-WA,2026-04-18,Spotted Sandpiper,1
+US-WA,2026-04-18,Spotted Towhee,2
+US-WA,2026-04-18,Surf Scoter,30
+US-WA,2026-04-18,Surfbird,1
+US-WA,2026-04-18,Violet-green Swallow,4
+US-WA,2026-04-18,Western Grebe,4
+US-WA,2026-04-18,White-crowned Sparrow,5
+US-WA,2026-04-18,White-winged Scoter,6
+US-WA,2026-04-18,Wood Duck,1
+US-WA,2026-04-18,Yellow-rumped Warbler,3
+US-WA,2026-04-19,American Crow,18
+US-WA,2026-04-19,American Robin,2
+US-WA,2026-04-19,American Wigeon,80
+US-WA,2026-04-19,Anna's Hummingbird,4
+US-WA,2026-04-19,Bald Eagle,14
+US-WA,2026-04-19,Barn Swallow,3
+US-WA,2026-04-19,Barrow's Goldeneye,20
+US-WA,2026-04-19,Belted Kingfisher,1
+US-WA,2026-04-19,Black-bellied Plover,50
+US-WA,2026-04-19,Black-capped Chickadee,5
+US-WA,2026-04-19,Brandt's Cormorant,5
+US-WA,2026-04-19,Brant,600
+US-WA,2026-04-19,Brewer's Blackbird,4
+US-WA,2026-04-19,Brown-headed Cowbird,3
+US-WA,2026-04-19,Bufflehead,8
+US-WA,2026-04-19,Bushtit,3
+US-WA,2026-04-19,California Quail,2
+US-WA,2026-04-19,Canada Goose,5
+US-WA,2026-04-19,Cinnamon Teal,2
+US-WA,2026-04-19,Common Merganser,2
+US-WA,2026-04-19,Common Raven,2
+US-WA,2026-04-19,Common Yellowthroat,1
+US-WA,2026-04-19,Cooper's Hawk,2
+US-WA,2026-04-19,Double-crested Cormorant,5
+US-WA,2026-04-19,Dunlin,20
+US-WA,2026-04-19,Gadwall,4
+US-WA,2026-04-19,Great Blue Heron,5
+US-WA,2026-04-19,Greater Yellowlegs,2
+US-WA,2026-04-19,Green-winged Teal,43
+US-WA,2026-04-19,Hooded Merganser,1
+US-WA,2026-04-19,House Finch,2
+US-WA,2026-04-19,Killdeer,6
+US-WA,2026-04-19,Least Sandpiper,2
+US-WA,2026-04-19,Long-billed Dowitcher,5
+US-WA,2026-04-19,Mallard,8
+US-WA,2026-04-19,Marsh Wren,4
+US-WA,2026-04-19,Mourning Dove,3
+US-WA,2026-04-19,Northern Flicker,2
+US-WA,2026-04-19,Northern Harrier,2
+US-WA,2026-04-19,Northern Pintail,2
+US-WA,2026-04-19,Northern Rough-winged Swallow,1
+US-WA,2026-04-19,Northern Shoveler,2
+US-WA,2026-04-19,Pelagic Cormorant,10
+US-WA,2026-04-19,Pigeon Guillemot,2
+US-WA,2026-04-19,Purple Finch,1
+US-WA,2026-04-19,Purple Martin,4
+US-WA,2026-04-19,Red-breasted Merganser,4
+US-WA,2026-04-19,Red-breasted Nuthatch,1
+US-WA,2026-04-19,Red-tailed Hawk,1
+US-WA,2026-04-19,Red-winged Blackbird,7
+US-WA,2026-04-19,Rock Pigeon (Feral Pigeon),3
+US-WA,2026-04-19,Sanderling,30
+US-WA,2026-04-19,Savannah Sparrow,3
+US-WA,2026-04-19,Song Sparrow,2
+US-WA,2026-04-19,Surf Scoter,10
+US-WA,2026-04-19,Tree Swallow,5
+US-WA,2026-04-19,Turkey Vulture,7
+US-WA,2026-04-19,Violet-green Swallow,4
+US-WA,2026-04-19,Western Sandpiper,10
+US-WA,2026-04-19,White-crowned Sparrow,2
+US-WA,2026-04-19,Wilson's Snipe,5
+US-WA,2026-04-19,Yellow-rumped Warbler,3
+US-WA,2026-04-23,American Crow,10
+US-WA,2026-04-23,American Robin,2
+US-WA,2026-04-23,Anna's Hummingbird,3
+US-WA,2026-04-23,Canada Goose,3
+US-WA,2026-04-23,Great Blue Heron,1
+US-WA,2026-04-23,House Finch,3
+US-WA,2026-04-23,House Sparrow,1
+US-WA,2026-04-23,Mallard,2
+US-WA,2026-04-23,Rock Pigeon (Feral Pigeon),2
+US-WA,2026-04-23,Song Sparrow,4
+US-WA,2026-04-23,White-crowned Sparrow,1
+US-WA,2026-04-24,American Coot,3
+US-WA,2026-04-24,American Crow,20
+US-WA,2026-04-24,American Goldfinch,2
+US-WA,2026-04-24,American Robin,2
+US-WA,2026-04-24,Anna's Hummingbird,4
+US-WA,2026-04-24,Bald Eagle,4
+US-WA,2026-04-24,Black-capped Chickadee,6
+US-WA,2026-04-24,Brown-headed Cowbird,3
+US-WA,2026-04-24,Bushtit,3
+US-WA,2026-04-24,Canada Goose,10
+US-WA,2026-04-24,Common Yellowthroat,2
+US-WA,2026-04-24,Dark-eyed Junco,2
+US-WA,2026-04-24,Double-crested Cormorant,4
+US-WA,2026-04-24,Downy Woodpecker,3
+US-WA,2026-04-24,European Starling,1
+US-WA,2026-04-24,Gadwall,6
+US-WA,2026-04-24,Great Blue Heron,2
+US-WA,2026-04-24,Green-winged Teal,6
+US-WA,2026-04-24,Mallard,9
+US-WA,2026-04-24,Marsh Wren,1
+US-WA,2026-04-24,Northern Flicker,2
+US-WA,2026-04-24,Northern Shoveler,6
+US-WA,2026-04-24,Osprey,2
+US-WA,2026-04-24,Pied-billed Grebe,1
+US-WA,2026-04-24,Purple Martin,4
+US-WA,2026-04-24,Red-winged Blackbird,5
+US-WA,2026-04-24,Ring-necked Duck,2
+US-WA,2026-04-24,Rock Pigeon (Feral Pigeon),1
+US-WA,2026-04-24,Savannah Sparrow,1
+US-WA,2026-04-24,Song Sparrow,6
+US-WA,2026-04-24,Spotted Towhee,4
+US-WA,2026-04-24,Tree Swallow,10
+US-WA,2026-04-24,White-crowned Sparrow,4
+US-WA,2026-04-24,Wood Duck,5
+US-WA,2026-04-24,Yellow-rumped Warbler,10
+US-WA,2026-04-25,American Coot,5
+US-WA,2026-04-25,American Robin,3
+US-WA,2026-04-25,American Wigeon,30
+US-WA,2026-04-25,Bald Eagle,3
+US-WA,2026-04-25,Barn Swallow,6
+US-WA,2026-04-25,Black Phoebe,1
+US-WA,2026-04-25,Bufflehead,22
+US-WA,2026-04-25,Canada Goose,14
+US-WA,2026-04-25,Cliff Swallow,5
+US-WA,2026-04-25,Common Raven,1
+US-WA,2026-04-25,European Starling,4
+US-WA,2026-04-25,Gadwall,6
+US-WA,2026-04-25,Great Blue Heron,4
+US-WA,2026-04-25,Greater White-fronted Goose,14
+US-WA,2026-04-25,Greater Yellowlegs,5
+US-WA,2026-04-25,Green-winged Teal,38
+US-WA,2026-04-25,House Finch,1
+US-WA,2026-04-25,House Sparrow,1
+US-WA,2026-04-25,Killdeer,8
+US-WA,2026-04-25,Lesser Scaup,120
+US-WA,2026-04-25,Mallard,13
+US-WA,2026-04-25,Marsh Wren,2
+US-WA,2026-04-25,Mourning Dove,1
+US-WA,2026-04-25,Northern Flicker,2
+US-WA,2026-04-25,Northern Harrier,1
+US-WA,2026-04-25,Northern Shoveler,400
+US-WA,2026-04-25,Red-winged Blackbird,22
+US-WA,2026-04-25,Savannah Sparrow,2
+US-WA,2026-04-25,Song Sparrow,2
+US-WA,2026-04-25,Tree Swallow,4
+US-WA,2026-04-25,Wood Duck,6
+US-WA,2026-04-25,Yellow-rumped Warbler,5
+US-WA,2026-04-26,American Crow,42
+US-WA,2026-04-26,American Goldfinch,3
+US-WA,2026-04-26,American Robin,3
+US-WA,2026-04-26,American Wigeon,8
+US-WA,2026-04-26,Anna's Hummingbird,2
+US-WA,2026-04-26,Bald Eagle,2
+US-WA,2026-04-26,Band-tailed Pigeon,12
+US-WA,2026-04-26,Bufflehead,6
+US-WA,2026-04-26,Cooper's Hawk,2
+US-WA,2026-04-26,Dark-eyed Junco,1
+US-WA,2026-04-26,Double-crested Cormorant,2
+US-WA,2026-04-26,Gadwall,1
+US-WA,2026-04-26,Glaucous-winged Gull,25
+US-WA,2026-04-26,Great Blue Heron,1
+US-WA,2026-04-26,Horned Grebe,1
+US-WA,2026-04-26,House Finch,5
+US-WA,2026-04-26,Mallard,3
+US-WA,2026-04-26,Orange-crowned Warbler,2
+US-WA,2026-04-26,Pigeon Guillemot,1
+US-WA,2026-04-26,Purple Finch,2
+US-WA,2026-04-26,Red-necked Grebe,2
+US-WA,2026-04-26,Red-tailed Hawk,1
+US-WA,2026-04-26,Rock Pigeon (Feral Pigeon),20
+US-WA,2026-04-26,Savannah Sparrow,5
+US-WA,2026-04-26,Song Sparrow,1
+US-WA,2026-04-26,Spotted Sandpiper,1
+US-WA,2026-04-26,Steller's Jay,1
+US-WA,2026-04-26,Surf Scoter,30
+US-WA,2026-04-26,Violet-green Swallow,2
+US-WA,2026-04-26,White-crowned Sparrow,4
+US-WA,2026-04-30,American Crow,1
+US-WA,2026-04-30,American Goldfinch,6
+US-WA,2026-04-30,American Robin,1
+US-WA,2026-04-30,Bald Eagle,2
+US-WA,2026-04-30,Barn Swallow,1
+US-WA,2026-04-30,Black-bellied Plover,1
+US-WA,2026-04-30,Brown-headed Cowbird,2
+US-WA,2026-04-30,Cackling Goose,1
+US-WA,2026-04-30,Canada Goose,3
+US-WA,2026-04-30,Caspian Tern,1
+US-WA,2026-04-30,Cliff Swallow,1
+US-WA,2026-04-30,Double-crested Cormorant,10
+US-WA,2026-04-30,Dunlin,1
+US-WA,2026-04-30,European Starling,1
+US-WA,2026-04-30,Gadwall,1
+US-WA,2026-04-30,Great Blue Heron,1
+US-WA,2026-04-30,Green-winged Teal,1
+US-WA,2026-04-30,Hudsonian Whimbrel,1
+US-WA,2026-04-30,Mallard,1
+US-WA,2026-04-30,Northern Harrier,1
+US-WA,2026-04-30,Northern Shoveler,1
+US-WA,2026-04-30,Red Knot,1
+US-WA,2026-04-30,Red-winged Blackbird,4
+US-WA,2026-04-30,Savannah Sparrow,1
+US-WA,2026-04-30,Semipalmated Plover,1
+US-WA,2026-04-30,Violet-green Swallow,1
+US-WA,2026-04-30,Western Sandpiper,1
+US-WA,2026-05-01,American Crow,3
+US-WA,2026-05-01,American Robin,6
+US-WA,2026-05-01,Bald Eagle,5
+US-WA,2026-05-01,Barn Swallow,4
+US-WA,2026-05-01,Black Turnstone,1
+US-WA,2026-05-01,Black-bellied Plover,2
+US-WA,2026-05-01,Blue-winged Teal,3
+US-WA,2026-05-01,Bonaparte's Gull,1
+US-WA,2026-05-01,Brown Pelican,15
+US-WA,2026-05-01,Brown-headed Cowbird,5
+US-WA,2026-05-01,Bufflehead,1
+US-WA,2026-05-01,California Gull,1
+US-WA,2026-05-01,Canada Goose,1
+US-WA,2026-05-01,Caspian Tern,2
+US-WA,2026-05-01,Cinnamon Teal,1
+US-WA,2026-05-01,Common Loon,3
+US-WA,2026-05-01,Common Raven,4
+US-WA,2026-05-01,Double-crested Cormorant,1
+US-WA,2026-05-01,Dunlin,2
+US-WA,2026-05-01,Gadwall,22
+US-WA,2026-05-01,Glaucous-winged Gull,2
+US-WA,2026-05-01,Great Blue Heron,4
+US-WA,2026-05-01,Great Egret,1
+US-WA,2026-05-01,Greater Yellowlegs,1
+US-WA,2026-05-01,Green-winged Teal,4
+US-WA,2026-05-01,Hudsonian Whimbrel,4
+US-WA,2026-05-01,Killdeer,3
+US-WA,2026-05-01,Least Sandpiper,15
+US-WA,2026-05-01,Lesser Scaup,10
+US-WA,2026-05-01,Mallard,10
+US-WA,2026-05-01,Marbled Godwit,6
+US-WA,2026-05-01,Northern Harrier,1
+US-WA,2026-05-01,Northern Shoveler,32
+US-WA,2026-05-01,Osprey,1
+US-WA,2026-05-01,Peregrine Falcon,1
+US-WA,2026-05-01,Purple Finch,1
+US-WA,2026-05-01,Red Knot,1
+US-WA,2026-05-01,Red-winged Blackbird,1
+US-WA,2026-05-01,Ruddy Turnstone,1
+US-WA,2026-05-01,Rufous Hummingbird,3
+US-WA,2026-05-01,Sanderling,3
+US-WA,2026-05-01,Savannah Sparrow,2
+US-WA,2026-05-01,Semipalmated Plover,3
+US-WA,2026-05-01,Short-billed Dowitcher,6
+US-WA,2026-05-01,Song Sparrow,1
+US-WA,2026-05-01,Steller's Jay,1
+US-WA,2026-05-01,Surfbird,1
+US-WA,2026-05-01,Violet-green Swallow,8
+US-WA,2026-05-01,Western Gull,1
+US-WA,2026-05-01,Western Sandpiper,4
+US-WA,2026-05-01,White-crowned Sparrow,2
+US-WA,2026-05-02,American Crow,6
+US-WA,2026-05-02,American Goldfinch,3
+US-WA,2026-05-02,American Robin,10
+US-WA,2026-05-02,Anna's Hummingbird,1
+US-WA,2026-05-02,Bald Eagle,9
+US-WA,2026-05-02,Barn Swallow,12
+US-WA,2026-05-02,Belted Kingfisher,1
+US-WA,2026-05-02,Bewick's Wren,1
+US-WA,2026-05-02,Black-bellied Plover,2
+US-WA,2026-05-02,Black-capped Chickadee,1
+US-WA,2026-05-02,Brown Pelican,60
+US-WA,2026-05-02,Brown-headed Cowbird,3
+US-WA,2026-05-02,California Gull,20
+US-WA,2026-05-02,Canada Goose,34
+US-WA,2026-05-02,Caspian Tern,1
+US-WA,2026-05-02,Chestnut-backed Chickadee,1
+US-WA,2026-05-02,Cliff Swallow,3
+US-WA,2026-05-02,Common Loon,1
+US-WA,2026-05-02,Common Raven,1
+US-WA,2026-05-02,Common Yellowthroat,2
+US-WA,2026-05-02,Double-crested Cormorant,1
+US-WA,2026-05-02,Downy Woodpecker,1
+US-WA,2026-05-02,Dunlin,5
+US-WA,2026-05-02,European Starling,5
+US-WA,2026-05-02,Golden-crowned Sparrow,1
+US-WA,2026-05-02,Great Blue Heron,13
+US-WA,2026-05-02,Greater Yellowlegs,5
+US-WA,2026-05-02,Green-winged Teal,4
+US-WA,2026-05-02,Hudsonian Whimbrel,4
+US-WA,2026-05-02,Killdeer,2
+US-WA,2026-05-02,Least Sandpiper,2
+US-WA,2026-05-02,Mallard,1
+US-WA,2026-05-02,Marbled Godwit,2
+US-WA,2026-05-02,Marsh Wren,1
+US-WA,2026-05-02,Orange-crowned Warbler,1
+US-WA,2026-05-02,Pigeon Guillemot,2
+US-WA,2026-05-02,Purple Finch,2
+US-WA,2026-05-02,Red Knot,2
+US-WA,2026-05-02,Red-winged Blackbird,1
+US-WA,2026-05-02,Ring-billed Gull,1
+US-WA,2026-05-02,Rock Pigeon (Feral Pigeon),5
+US-WA,2026-05-02,Ruddy Turnstone,2
+US-WA,2026-05-02,Rufous Hummingbird,2
+US-WA,2026-05-02,Sanderling,1
+US-WA,2026-05-02,Savannah Sparrow,4
+US-WA,2026-05-02,Semipalmated Plover,2
+US-WA,2026-05-02,Short-billed Dowitcher,5
+US-WA,2026-05-02,Snowy Plover,3
+US-WA,2026-05-02,Song Sparrow,11
+US-WA,2026-05-02,Spotted Towhee,1
+US-WA,2026-05-02,Steller's Jay,1
+US-WA,2026-05-02,Tree Swallow,2
+US-WA,2026-05-02,Turkey Vulture,1
+US-WA,2026-05-02,Violet-green Swallow,1
+US-WA,2026-05-02,Western Flycatcher,1
+US-WA,2026-05-02,Western Gull,2
+US-WA,2026-05-02,Western Sandpiper,3
+US-WA,2026-05-02,White-crowned Sparrow,2
+US-WA,2026-05-03,American Bittern,1
+US-WA,2026-05-03,American Coot,1
+US-WA,2026-05-03,American Crow,4
+US-WA,2026-05-03,American Robin,5
+US-WA,2026-05-03,American Wigeon,1
+US-WA,2026-05-03,Bald Eagle,36
+US-WA,2026-05-03,Barn Swallow,13
+US-WA,2026-05-03,Black Oystercatcher,1
+US-WA,2026-05-03,Black Turnstone,4
+US-WA,2026-05-03,Black-capped Chickadee,1
+US-WA,2026-05-03,Brown Pelican,100
+US-WA,2026-05-03,Brown-headed Cowbird,6
+US-WA,2026-05-03,Bufflehead,10
+US-WA,2026-05-03,Canada Goose,10
+US-WA,2026-05-03,Caspian Tern,4
+US-WA,2026-05-03,Cliff Swallow,20
+US-WA,2026-05-03,Double-crested Cormorant,1
+US-WA,2026-05-03,European Starling,7
+US-WA,2026-05-03,Glaucous-winged Gull,1
+US-WA,2026-05-03,Golden-crowned Sparrow,3
+US-WA,2026-05-03,Great Blue Heron,6
+US-WA,2026-05-03,Greater Yellowlegs,1
+US-WA,2026-05-03,Green-winged Teal,2
+US-WA,2026-05-03,Hooded Merganser,3
+US-WA,2026-05-03,Hudsonian Whimbrel,2
+US-WA,2026-05-03,Killdeer,4
+US-WA,2026-05-03,Mallard,14
+US-WA,2026-05-03,Marsh Wren,1
+US-WA,2026-05-03,Mourning Dove,3
+US-WA,2026-05-03,Northern Shoveler,5
+US-WA,2026-05-03,Pelagic Cormorant,1
+US-WA,2026-05-03,Red-winged Blackbird,7
+US-WA,2026-05-03,Ring-billed Gull,2
+US-WA,2026-05-03,Ring-necked Duck,1
+US-WA,2026-05-03,Ring-necked Pheasant,1
+US-WA,2026-05-03,Savannah Sparrow,4
+US-WA,2026-05-03,Semipalmated Plover,1
+US-WA,2026-05-03,Song Sparrow,3
+US-WA,2026-05-03,Tree Swallow,5
+US-WA,2026-05-03,Violet-green Swallow,1
+US-WA,2026-05-03,White-crowned Sparrow,3
+US-WA,2026-05-03,Wilson's Warbler,1
+US-WA,2026-05-03,Wood Duck,1
+US-WA,2026-05-05,American Coot,1
+US-WA,2026-05-05,American Crow,7
+US-WA,2026-05-05,American Robin,3
+US-WA,2026-05-05,Anna's Hummingbird,1
+US-WA,2026-05-05,Bald Eagle,4
+US-WA,2026-05-05,Black-capped Chickadee,2
+US-WA,2026-05-05,Canada Goose,22
+US-WA,2026-05-05,Common Yellowthroat,1
+US-WA,2026-05-05,Double-crested Cormorant,1
+US-WA,2026-05-05,European Starling,1
+US-WA,2026-05-05,Gadwall,7
+US-WA,2026-05-05,Mallard,9
+US-WA,2026-05-05,Marsh Wren,3
+US-WA,2026-05-05,Purple Martin,4
+US-WA,2026-05-05,Red-winged Blackbird,10
+US-WA,2026-05-05,Song Sparrow,2
+US-WA,2026-05-05,Virginia Rail,3
+US-WA,2026-05-05,Wood Duck,1
+US-WA,2026-05-06,American Crow,13
+US-WA,2026-05-06,American Goldfinch,1
+US-WA,2026-05-06,American Robin,5
+US-WA,2026-05-06,Anna's Hummingbird,1
+US-WA,2026-05-06,Cooper's Hawk,1
+US-WA,2026-05-06,Orange-crowned Warbler,1
+US-WA,2026-05-06,Savannah Sparrow,2
+US-WA,2026-05-06,Song Sparrow,6
+US-WA,2026-05-07,American Crow,6
+US-WA,2026-05-07,American Robin,4
+US-WA,2026-05-07,Anna's Hummingbird,2
+US-WA,2026-05-07,Bald Eagle,1
+US-WA,2026-05-07,Bewick's Wren,1
+US-WA,2026-05-07,Black-capped Chickadee,3
+US-WA,2026-05-07,Brown-headed Cowbird,1
+US-WA,2026-05-07,Bushtit,3
+US-WA,2026-05-07,Canada Goose,2
+US-WA,2026-05-07,Gadwall,2
+US-WA,2026-05-07,Great Blue Heron,1
+US-WA,2026-05-07,House Finch,1
+US-WA,2026-05-07,Mallard,12
+US-WA,2026-05-07,Marsh Wren,2
+US-WA,2026-05-07,Northern Yellow Warbler,1
+US-WA,2026-05-07,Red-winged Blackbird,7
+US-WA,2026-05-07,Song Sparrow,4
+US-WA,2026-05-07,Tree Swallow,2
+US-WA,2026-05-08,American Crow,3
+US-WA,2026-05-08,Anna's Hummingbird,1
+US-WA,2026-05-08,Bald Eagle,2
+US-WA,2026-05-08,Bushtit,1
+US-WA,2026-05-08,Dark-eyed Junco,1
+US-WA,2026-05-08,European Starling,6
+US-WA,2026-05-08,Glaucous-winged Gull,1
+US-WA,2026-05-08,House Finch,4
+US-WA,2026-05-08,House Sparrow,3
+US-WA,2026-05-08,Mallard,2
+US-WA,2026-05-08,Rock Pigeon (Feral Pigeon),10
+US-WA,2026-05-08,Song Sparrow,3
+US-WA,2026-05-09,American Crow,15
+US-WA,2026-05-09,American Robin,1
+US-WA,2026-05-09,Anna's Hummingbird,1
+US-WA,2026-05-09,Bald Eagle,1
+US-WA,2026-05-09,Black-capped Chickadee,2
+US-WA,2026-05-09,Brown Creeper,1
+US-WA,2026-05-09,Brown-headed Cowbird,4
+US-WA,2026-05-09,Common Goldeneye,2
+US-WA,2026-05-09,Dark-eyed Junco,4
+US-WA,2026-05-09,Gadwall,2
+US-WA,2026-05-09,Glaucous-winged Gull,2
+US-WA,2026-05-09,Great Blue Heron,2
+US-WA,2026-05-09,Mallard,15
+US-WA,2026-05-09,Red-necked Grebe,5
+US-WA,2026-05-09,Rock Pigeon (Feral Pigeon),7
+US-WA,2026-05-09,Song Sparrow,7
+US-WA,2026-05-09,Surf Scoter,7
+US-WA,2026-05-09,Western Grebe,10
+US-WA,2026-05-09,Wilson's Warbler,2
+US-WA,2026-05-10,American Coot,3
+US-WA,2026-05-10,American Crow,12
+US-WA,2026-05-10,American Robin,10
+US-WA,2026-05-10,Anna's Hummingbird,6
+US-WA,2026-05-10,Bald Eagle,2
+US-WA,2026-05-10,Barn Swallow,1
+US-WA,2026-05-10,Bewick's Wren,1
+US-WA,2026-05-10,Black-capped Chickadee,1
+US-WA,2026-05-10,Brown-headed Cowbird,1
+US-WA,2026-05-10,Bushtit,4
+US-WA,2026-05-10,Canada Goose,23
+US-WA,2026-05-10,Dark-eyed Junco,3
+US-WA,2026-05-10,Downy Woodpecker,1
+US-WA,2026-05-10,European Starling,2
+US-WA,2026-05-10,Gadwall,8
+US-WA,2026-05-10,Glaucous-winged Gull,3
+US-WA,2026-05-10,Great Blue Heron,2
+US-WA,2026-05-10,House Finch,2
+US-WA,2026-05-10,Mallard,4
+US-WA,2026-05-10,Marsh Wren,4
+US-WA,2026-05-10,Northern Flicker,1
+US-WA,2026-05-10,Pied-billed Grebe,1
+US-WA,2026-05-10,Purple Martin,10
+US-WA,2026-05-10,Red-winged Blackbird,14
+US-WA,2026-05-10,Rock Pigeon (Feral Pigeon),1
+US-WA,2026-05-10,Song Sparrow,5
+US-WA,2026-05-10,Spotted Towhee,5
+US-WA,2026-05-10,Tree Swallow,4
+US-WA,2026-05-10,Virginia Rail,4
+US-WA,2026-05-13,American Crow,8
+US-WA,2026-05-13,Bald Eagle,1
+US-WA,2026-05-13,Belted Kingfisher,2
+US-WA,2026-05-13,Caspian Tern,2
+US-WA,2026-05-13,Double-crested Cormorant,6
+US-WA,2026-05-13,European Starling,2
+US-WA,2026-05-13,Glaucous-winged Gull,51
+US-WA,2026-05-13,Great Blue Heron,54
+US-WA,2026-05-13,Mallard,3
+US-WA,2026-05-13,Rock Pigeon (Feral Pigeon),4
+US-WA,2026-05-15,American Coot,2
+US-WA,2026-05-15,American Crow,9
+US-WA,2026-05-15,American Goldfinch,1
+US-WA,2026-05-15,American Robin,3
+US-WA,2026-05-15,Anna's Hummingbird,3
+US-WA,2026-05-15,Bald Eagle,4
+US-WA,2026-05-15,Barn Swallow,5
+US-WA,2026-05-15,Black-capped Chickadee,2
+US-WA,2026-05-15,Blue-winged Teal,1
+US-WA,2026-05-15,Bushtit,2
+US-WA,2026-05-15,Canada Goose,31
+US-WA,2026-05-15,Cedar Waxwing,7
+US-WA,2026-05-15,Common Yellowthroat,1
+US-WA,2026-05-15,Dark-eyed Junco,1
+US-WA,2026-05-15,European Starling,1
+US-WA,2026-05-15,Gadwall,9
+US-WA,2026-05-15,Glaucous-winged Gull,2
+US-WA,2026-05-15,Great Blue Heron,1
+US-WA,2026-05-15,House Finch,4
+US-WA,2026-05-15,Mallard,12
+US-WA,2026-05-15,Marsh Wren,1
+US-WA,2026-05-15,Northern Yellow Warbler,1
+US-WA,2026-05-15,Osprey,1
+US-WA,2026-05-15,Purple Martin,4
+US-WA,2026-05-15,Red-winged Blackbird,5
+US-WA,2026-05-15,Song Sparrow,2
+US-WA,2026-05-15,Spotted Towhee,2
+US-WA,2026-05-15,Tree Swallow,2
+US-WA,2026-05-15,Vaux's Swift,2
+US-WA,2026-05-15,Violet-green Swallow,6
+US-WA,2026-05-15,Virginia Rail,4
+US-WA,2026-05-15,Wood Duck,3
+US-WA,2026-05-20,American Crow,33
+US-WA,2026-05-20,American Robin,7
+US-WA,2026-05-20,Anna's Hummingbird,8
+US-WA,2026-05-20,Bald Eagle,5
+US-WA,2026-05-20,Barn Swallow,16
+US-WA,2026-05-20,Black-capped Chickadee,8
+US-WA,2026-05-20,Brown Creeper,2
+US-WA,2026-05-20,Brown-headed Cowbird,2
+US-WA,2026-05-20,Bushtit,7
+US-WA,2026-05-20,Canada Goose,65
+US-WA,2026-05-20,Cedar Waxwing,4
+US-WA,2026-05-20,Chipping Sparrow,1
+US-WA,2026-05-20,Cliff Swallow,5
+US-WA,2026-05-20,Dark-eyed Junco,11
+US-WA,2026-05-20,Double-crested Cormorant,1
+US-WA,2026-05-20,Downy Woodpecker,1
+US-WA,2026-05-20,European Starling,12
+US-WA,2026-05-20,Gadwall,8
+US-WA,2026-05-20,Glaucous-winged Gull,5
+US-WA,2026-05-20,Great Blue Heron,5
+US-WA,2026-05-20,House Finch,7
+US-WA,2026-05-20,Mallard,47
+US-WA,2026-05-20,Marsh Wren,3
+US-WA,2026-05-20,Northern Flicker,2
+US-WA,2026-05-20,Northern Shoveler,2
+US-WA,2026-05-20,Northern Yellow Warbler,1
+US-WA,2026-05-20,Osprey,2
+US-WA,2026-05-20,Pied-billed Grebe,2
+US-WA,2026-05-20,Purple Martin,7
+US-WA,2026-05-20,Red-winged Blackbird,9
+US-WA,2026-05-20,Ring-necked Duck,1
+US-WA,2026-05-20,Rock Pigeon (Feral Pigeon),20
+US-WA,2026-05-20,Song Sparrow,12
+US-WA,2026-05-20,Spotted Towhee,3
+US-WA,2026-05-20,Steller's Jay,2
+US-WA,2026-05-20,Tree Swallow,15
+US-WA,2026-05-20,Vaux's Swift,1
+US-WA,2026-05-20,Violet-green Swallow,10
+US-WA,2026-05-20,Western Warbling Vireo,1
+US-WA,2026-05-20,Western Wood-Pewee,1
+US-WA,2026-05-20,White-crowned Sparrow,1
+US-WA,2026-05-20,Wood Duck,2
+US-WA,2026-05-20,Yellow-rumped Warbler,1
+US-WA,2026-05-21,American Crow,5
+US-WA,2026-05-21,American Robin,1
+US-WA,2026-05-21,Anna's Hummingbird,2
+US-WA,2026-05-21,House Finch,1
+US-WA,2026-05-21,House Sparrow,3
+US-WA,2026-05-21,Northern Flicker,1
+US-WA,2026-05-21,Northern Yellow Warbler,1
+US-WA,2026-05-21,Rock Pigeon (Feral Pigeon),20
+US-WA,2026-05-21,Song Sparrow,1
+US-WA,2026-05-21,White-crowned Sparrow,1
+US-WA,2026-05-23,American Crow,4
+US-WA,2026-05-23,American Robin,1
+US-WA,2026-05-23,Barred Owl,2
+US-WA,2026-05-23,Bewick's Wren,1
+US-WA,2026-05-23,Black-capped Chickadee,1
+US-WA,2026-05-23,Chestnut-backed Chickadee,1
+US-WA,2026-05-23,Dark-eyed Junco,3
+US-WA,2026-05-23,Mallard,2
+US-WA,2026-05-23,Song Sparrow,2
+US-WA,2026-05-23,Spotted Towhee,3
+US-WA,2026-05-24,American Crow,7
+US-WA,2026-05-24,American Goldfinch,2
+US-WA,2026-05-24,American Robin,8
+US-WA,2026-05-24,Anna's Hummingbird,5
+US-WA,2026-05-24,Bald Eagle,1
+US-WA,2026-05-24,Bewick's Wren,1
+US-WA,2026-05-24,Black-capped Chickadee,1
+US-WA,2026-05-24,Brown Creeper,1
+US-WA,2026-05-24,Brown-headed Cowbird,1
+US-WA,2026-05-24,Caspian Tern,2
+US-WA,2026-05-24,Cedar Waxwing,3
+US-WA,2026-05-24,Chestnut-backed Chickadee,1
+US-WA,2026-05-24,Dark-eyed Junco,6
+US-WA,2026-05-24,Great Blue Heron,1
+US-WA,2026-05-24,House Finch,7
+US-WA,2026-05-24,Northern Flicker,3
+US-WA,2026-05-24,Orange-crowned Warbler,3
+US-WA,2026-05-24,Rufous Hummingbird,1
+US-WA,2026-05-24,Savannah Sparrow,1
+US-WA,2026-05-24,Song Sparrow,4
+US-WA,2026-05-24,Spotted Towhee,1
+US-WA,2026-05-24,Violet-green Swallow,4
+US-WA,2026-05-24,Western Kingbird,1
+US-WA,2026-05-24,White-crowned Sparrow,2
+US-WA,2026-05-24,Wilson's Warbler,1
+US-WA,2026-05-25,American Goldfinch,12
+US-WA,2026-05-25,American Robin,6
+US-WA,2026-05-25,Anna's Hummingbird,1
+US-WA,2026-05-25,Bald Eagle,2
+US-WA,2026-05-25,Barn Swallow,4
+US-WA,2026-05-25,Bewick's Wren,1
+US-WA,2026-05-25,Black-capped Chickadee,1
+US-WA,2026-05-25,Brown-headed Cowbird,2
+US-WA,2026-05-25,Bullock's Oriole,3
+US-WA,2026-05-25,Canada Goose,70
+US-WA,2026-05-25,Cedar Waxwing,2
+US-WA,2026-05-25,Common Yellowthroat,1
+US-WA,2026-05-25,Dark-eyed Junco,1
+US-WA,2026-05-25,European Starling,50
+US-WA,2026-05-25,Glaucous-winged Gull,1
+US-WA,2026-05-25,Great Blue Heron,3
+US-WA,2026-05-25,Hairy Woodpecker,1
+US-WA,2026-05-25,House Finch,5
+US-WA,2026-05-25,Lazuli Bunting,6
+US-WA,2026-05-25,Mallard,2
+US-WA,2026-05-25,Mourning Dove,4
+US-WA,2026-05-25,Northern Flicker,2
+US-WA,2026-05-25,Northern Yellow Warbler,2
+US-WA,2026-05-25,Red-tailed Hawk,2
+US-WA,2026-05-25,Red-winged Blackbird,2
+US-WA,2026-05-25,Rufous Hummingbird,1
+US-WA,2026-05-25,Song Sparrow,2
+US-WA,2026-05-25,Tree Swallow,1
+US-WA,2026-05-25,White-crowned Sparrow,1
+US-WA,2026-05-25,Yellow-headed Blackbird,2
+US-WA,2026-05-27,American Crow,10
+US-WA,2026-05-27,American Goldfinch,2
+US-WA,2026-05-27,American Robin,8
+US-WA,2026-05-27,Anna's Hummingbird,5
+US-WA,2026-05-27,Bald Eagle,3
+US-WA,2026-05-27,Barn Swallow,4
+US-WA,2026-05-27,Bewick's Wren,2
+US-WA,2026-05-27,Black-capped Chickadee,4
+US-WA,2026-05-27,Blue-winged Teal,1
+US-WA,2026-05-27,Brown-headed Cowbird,1
+US-WA,2026-05-27,Bushtit,2
+US-WA,2026-05-27,Canada Goose,30
+US-WA,2026-05-27,Cedar Waxwing,30
+US-WA,2026-05-27,Dark-eyed Junco,2
+US-WA,2026-05-27,Downy Woodpecker,1
+US-WA,2026-05-27,European Starling,3
+US-WA,2026-05-27,Gadwall,7
+US-WA,2026-05-27,Great Blue Heron,1
+US-WA,2026-05-27,House Finch,2
+US-WA,2026-05-27,Mallard,8
+US-WA,2026-05-27,Marsh Wren,2
+US-WA,2026-05-27,Northern Flicker,2
+US-WA,2026-05-27,Orange-crowned Warbler,1
+US-WA,2026-05-27,Osprey,1
+US-WA,2026-05-27,Purple Martin,8
+US-WA,2026-05-27,Red-winged Blackbird,7
+US-WA,2026-05-27,Song Sparrow,7
+US-WA,2026-05-27,Spotted Towhee,4
+US-WA,2026-05-27,Tree Swallow,1
+US-WA,2026-05-27,Virginia Rail,1
+US-WA,2026-05-27,Willow Flycatcher,1
+US-WA,2026-05-27,Wood Duck,2
+US-WA,2026-05-28,American Crow,5
+US-WA,2026-05-28,American Robin,1
+US-WA,2026-05-28,Anna's Hummingbird,1
+US-WA,2026-05-28,Barred Owl,4
+US-WA,2026-05-28,Black-capped Chickadee,4
+US-WA,2026-05-28,Bushtit,3
+US-WA,2026-05-28,Canada Goose,20
+US-WA,2026-05-28,Chipping Sparrow,1
+US-WA,2026-05-28,Dark-eyed Junco,1
+US-WA,2026-05-28,Glaucous-winged Gull,1
+US-WA,2026-05-28,Killdeer,2
+US-WA,2026-05-28,Mallard,30
+US-WA,2026-05-28,Northern Flicker,1
+US-WA,2026-05-28,Red-winged Blackbird,3
+US-WA,2026-05-28,Rock Pigeon (Feral Pigeon),30
+US-WA,2026-05-28,White-crowned Sparrow,1
+US-WA,2026-05-29,Bonaparte's Gull,3
+US-WA,2026-05-30,American Crow,4
+US-WA,2026-05-30,American Goldfinch,3
+US-WA,2026-05-30,American Robin,13
+US-WA,2026-05-30,Bald Eagle,5
+US-WA,2026-05-30,Barn Swallow,16
+US-WA,2026-05-30,Belted Kingfisher,4
+US-WA,2026-05-30,Black Oystercatcher,3
+US-WA,2026-05-30,Brandt's Cormorant,1
+US-WA,2026-05-30,Brown Pelican,7
+US-WA,2026-05-30,Canada Goose,11
+US-WA,2026-05-30,Caspian Tern,1
+US-WA,2026-05-30,Cliff Swallow,3
+US-WA,2026-05-30,Common Murre,1
+US-WA,2026-05-30,European Starling,1
+US-WA,2026-05-30,Glaucous-winged Gull,90
+US-WA,2026-05-30,Great Blue Heron,2
+US-WA,2026-05-30,Harlequin Duck,1
+US-WA,2026-05-30,Horned Puffin,1
+US-WA,2026-05-30,House Finch,3
+US-WA,2026-05-30,Killdeer,7
+US-WA,2026-05-30,Mallard,2
+US-WA,2026-05-30,Marbled Murrelet,1
+US-WA,2026-05-30,Northern Rough-winged Swallow,4
+US-WA,2026-05-30,Pacific Loon,2
+US-WA,2026-05-30,Pacific Wren,1
+US-WA,2026-05-30,Pelagic Cormorant,1
+US-WA,2026-05-30,Pigeon Guillemot,41
+US-WA,2026-05-30,Red-breasted Sapsucker,1
+US-WA,2026-05-30,Rhinoceros Auklet,11
+US-WA,2026-05-30,Savannah Sparrow,3
+US-WA,2026-05-30,Song Sparrow,2
+US-WA,2026-05-30,Spotted Towhee,1
+US-WA,2026-05-30,Surf Scoter,1
+US-WA,2026-05-30,Tufted Puffin,1
+US-WA,2026-05-30,Violet-green Swallow,10
+US-WA,2026-05-30,Western Tanager,1
+US-WA,2026-05-30,White-crowned Sparrow,20
+US-WA,2026-05-30,Wilson's Warbler,1
+US-WA,2026-05-31,American Crow,3
+US-WA,2026-05-31,Bald Eagle,3
+US-WA,2026-05-31,Barn Swallow,7
+US-WA,2026-05-31,European Starling,1
+US-WA,2026-05-31,Great Blue Heron,2
+US-WA,2026-05-31,Marbled Murrelet,2
+US-WA,2026-05-31,Northern Flicker,1
+US-WA,2026-05-31,Osprey,1
+US-WA,2026-05-31,Red-winged Blackbird,4
+US-WA,2026-05-31,Rock Wren,1
+US-WA,2026-05-31,Song Sparrow,2
+US-WA,2026-05-31,Spotted Towhee,1
+US-WA,2026-05-31,Steller's Jay,6
+US-WA,2026-05-31,Violet-green Swallow,1
+US-WA,2026-06-03,American Crow,7
+US-WA,2026-06-03,American Robin,1
+US-WA,2026-06-03,Black-capped Chickadee,1
+US-WA,2026-06-03,Canada Goose,11
+US-WA,2026-06-03,Dark-eyed Junco,1
+US-WA,2026-06-03,Glaucous-winged Gull,3
+US-WA,2026-06-03,Great Blue Heron,3
+US-WA,2026-06-03,House Finch,2
+US-WA,2026-06-03,Mallard,1
+US-WA,2026-06-03,Rock Pigeon (Feral Pigeon),3
+US-WA,2026-06-03,Song Sparrow,3
+US-WA,2026-06-18,American Crow,6
+US-WA,2026-06-18,American Robin,3
+US-WA,2026-06-18,Bald Eagle,2
+US-WA,2026-06-18,Brown-headed Cowbird,2
+US-WA,2026-06-18,Canada Goose,80
+US-WA,2026-06-18,European Starling,3
+US-WA,2026-06-18,Gadwall,2
+US-WA,2026-06-18,Great Blue Heron,3
+US-WA,2026-06-18,House Finch,3
+US-WA,2026-06-18,Mallard,15
+US-WA,2026-06-18,Osprey,2
+US-WA,2026-06-18,Purple Martin,10
+US-WA,2026-06-18,Red-winged Blackbird,8
+US-WA,2026-06-18,Song Sparrow,5
+US-WA,2026-06-18,Spotted Towhee,1
+US-WA,2026-06-18,Tree Swallow,1
+US-WA,2026-06-18,Wood Duck,4
+US-WA,2026-07-01,American Crow,8
+US-WA,2026-07-01,American Robin,1
+US-WA,2026-07-01,Canada Goose,6
+US-WA,2026-07-01,Caspian Tern,3
+US-WA,2026-07-01,Glaucous-winged Gull,2
+US-WA,2026-07-01,House Finch,3
+US-WA,2026-07-01,Rock Pigeon (Feral Pigeon),8
+US-WA,2026-07-01,Song Sparrow,3
+US-WA,2026-07-01,White-crowned Sparrow,3
+US-WA,2026-07-11,American Robin,1
+US-WA,2026-07-11,Swainson's Thrush,1
+US-WA,2026-07-12,American Crow,7
+US-WA,2026-07-12,American Goldfinch,4
+US-WA,2026-07-12,American Robin,6
+US-WA,2026-07-12,Bank Swallow,1
+US-WA,2026-07-12,Barn Swallow,5
+US-WA,2026-07-12,Belted Kingfisher,2
+US-WA,2026-07-12,Bewick's Wren,1
+US-WA,2026-07-12,Black-capped Chickadee,1
+US-WA,2026-07-12,Black-headed Grosbeak,1
+US-WA,2026-07-12,Brown-headed Cowbird,5
+US-WA,2026-07-12,Canada Goose,5
+US-WA,2026-07-12,Cedar Waxwing,7
+US-WA,2026-07-12,Cliff Swallow,1
+US-WA,2026-07-12,Common Yellowthroat,3
+US-WA,2026-07-12,European Starling,4
+US-WA,2026-07-12,Great Blue Heron,4
+US-WA,2026-07-12,House Finch,2
+US-WA,2026-07-12,Mallard,7
+US-WA,2026-07-12,Mourning Dove,1
+US-WA,2026-07-12,Northern Yellow Warbler,1
+US-WA,2026-07-12,Osprey,1
+US-WA,2026-07-12,Pied-billed Grebe,1
+US-WA,2026-07-12,Red-breasted Sapsucker,1
+US-WA,2026-07-12,Red-tailed Hawk,1
+US-WA,2026-07-12,Red-winged Blackbird,25
+US-WA,2026-07-12,Song Sparrow,7
+US-WA,2026-07-12,Spotted Sandpiper,1
+US-WA,2026-07-12,Vaux's Swift,1
+US-WA,2026-07-12,Violet-green Swallow,1
+US-WA,2026-07-12,Western Wood-Pewee,1
+US-WA,2026-07-12,Wood Duck,17
+US-WA,2026-07-12,Yellow-rumped Warbler,1
+US-WA,2026-07-17,American Dipper,2
+US-WA,2026-07-20,American Crow,40
+US-WA,2026-07-20,American Robin,5
+US-WA,2026-07-20,Bald Eagle,1
+US-WA,2026-07-20,Barn Swallow,2
+US-WA,2026-07-20,Black-capped Chickadee,2
+US-WA,2026-07-20,Brown Creeper,1
+US-WA,2026-07-20,Canada Goose,50
+US-WA,2026-07-20,Dark-eyed Junco,1
+US-WA,2026-07-20,Downy Woodpecker,1
+US-WA,2026-07-20,Great Blue Heron,2
+US-WA,2026-07-20,House Finch,2
+US-WA,2026-07-20,Mallard,15
+US-WA,2026-07-20,Northern Flicker,1
+US-WA,2026-07-20,Northern Yellow Warbler,1
+US-WA,2026-07-20,Orange-crowned Warbler,1
+US-WA,2026-07-20,Osprey,5
+US-WA,2026-07-20,Pied-billed Grebe,1
+US-WA,2026-07-20,Song Sparrow,4
+US-WA,2026-07-20,Spotted Towhee,1
+US-WA,2026-07-20,Tree Swallow,6
+US-WA,2026-07-20,Violet-green Swallow,1
+US-WA,2026-07-20,White-crowned Sparrow,1
+US-WA,2026-07-23,American Goldfinch,6
+US-WA,2026-07-23,American Robin,2
+US-WA,2026-07-23,Bald Eagle,1
+US-WA,2026-07-23,Barn Swallow,5
+US-WA,2026-07-23,Brewer's Blackbird,1
+US-WA,2026-07-23,Brown-headed Cowbird,4
+US-WA,2026-07-23,Bufflehead,2
+US-WA,2026-07-23,Cedar Waxwing,3
+US-WA,2026-07-23,Common Yellowthroat,2
+US-WA,2026-07-23,Hooded Merganser,2
+US-WA,2026-07-23,House Finch,8
+US-WA,2026-07-23,Killdeer,5
+US-WA,2026-07-23,Mallard,15
+US-WA,2026-07-23,Mourning Dove,1
+US-WA,2026-07-23,Northern Harrier,1
+US-WA,2026-07-23,Pied-billed Grebe,2
+US-WA,2026-07-23,Red-winged Blackbird,1
+US-WA,2026-07-23,Song Sparrow,1
+US-WA,2026-07-23,Spotted Sandpiper,2
+US-WA,2026-07-23,Tree Swallow,5
+US-WA,2026-07-23,Virginia Rail,2
+US-WA,2026-07-24,California Scrub-Jay,1
+US-WA,2026-07-24,Canada Jay,5
+US-WA,2026-07-24,Common Raven,2
+US-WA,2026-07-25,Canada Jay,1
+US-WA,2026-07-25,Clark's Nutcracker,1
+US-WA,2026-07-25,Dark-eyed Junco,3
+US-WA,2026-07-25,Mountain Chickadee,1
+US-WA,2026-07-25,Pine Siskin,4
+US-WA,2026-07-25,Red-breasted Nuthatch,1
+US-WA,2026-07-25,Yellow-rumped Warbler,1
+US-WA,2026-07-26,American Coot,3
+US-WA,2026-07-26,American Goldfinch,1
+US-WA,2026-07-26,Barn Swallow,1
+US-WA,2026-07-26,Belted Kingfisher,1
+US-WA,2026-07-26,Cedar Waxwing,1
+US-WA,2026-07-26,Chipping Sparrow,1
+US-WA,2026-07-26,Common Raven,2
+US-WA,2026-07-26,Common Yellowthroat,1
+US-WA,2026-07-26,Dark-eyed Junco,2
+US-WA,2026-07-26,Great Blue Heron,1
+US-WA,2026-07-26,Hermit Thrush,1
+US-WA,2026-07-26,Hooded Merganser,1
+US-WA,2026-07-26,Long-billed Dowitcher,33
+US-WA,2026-07-26,Mallard,30
+US-WA,2026-07-26,Pied-billed Grebe,3
+US-WA,2026-07-26,Red-breasted Nuthatch,3
+US-WA,2026-07-26,Redhead,2
+US-WA,2026-07-26,Ruddy Duck,1
+US-WA,2026-07-26,Song Sparrow,1
+US-WA,2026-07-26,Spotted Sandpiper,1
+US-WA,2026-07-26,Tree Swallow,1
+US-WA,2026-07-27,American Crow,1
+US-WA,2026-07-27,Belted Kingfisher,1
+US-WA,2026-07-27,Canada Goose,40
+US-WA,2026-07-27,Cedar Waxwing,1
+US-WA,2026-07-27,Mallard,30
+US-WA,2026-08-02,American Crow,2
+US-WA,2026-08-02,American Robin,12
+US-WA,2026-08-02,Band-tailed Pigeon,7
+US-WA,2026-08-02,Belted Kingfisher,1
+US-WA,2026-08-02,Brown Creeper,3
+US-WA,2026-08-02,Brown-headed Cowbird,3
+US-WA,2026-08-02,Cedar Waxwing,6
+US-WA,2026-08-02,Chestnut-backed Chickadee,8
+US-WA,2026-08-02,Common Raven,1
+US-WA,2026-08-02,Common Yellowthroat,3
+US-WA,2026-08-02,Dark-eyed Junco,5
+US-WA,2026-08-02,Great Blue Heron,2
+US-WA,2026-08-02,Hairy Woodpecker,3
+US-WA,2026-08-02,Heermann's Gull,30
+US-WA,2026-08-02,House Finch,5
+US-WA,2026-08-02,MacGillivray's Warbler,1
+US-WA,2026-08-02,Northern Yellow Warbler,3
+US-WA,2026-08-02,Olive-sided Flycatcher,1
+US-WA,2026-08-02,Orange-crowned Warbler,2
+US-WA,2026-08-02,Pacific Wren,1
+US-WA,2026-08-02,Red-winged Blackbird,3
+US-WA,2026-08-02,Rock Pigeon (Feral Pigeon),4
+US-WA,2026-08-02,Rufous Hummingbird,3
+US-WA,2026-08-02,Song Sparrow,3
+US-WA,2026-08-02,Steller's Jay,2
+US-WA,2026-08-02,Townsend's Warbler,5
+US-WA,2026-08-02,Tree Swallow,20
+US-WA,2026-08-02,Vaux's Swift,1
+US-WA,2026-08-02,Western Wood-Pewee,2
+US-WA,2026-08-02,Willow Flycatcher,1
+US-WA,2026-08-02,Yellow-rumped Warbler,2
+US-WA,2026-08-05,American Crow,13
+US-WA,2026-08-05,European Starling,1
+US-WA,2026-08-05,Glaucous-winged Gull,2
+US-WA,2026-08-05,House Sparrow,1
+US-WA,2026-08-05,Killdeer,8
+US-WA,2026-08-05,Least Sandpiper,4
+US-WA,2026-08-05,Osprey,1
+US-WA,2026-08-05,Rock Pigeon (Feral Pigeon),14
+US-WA,2026-08-05,Wandering Tattler,1
+US-WA,2026-08-07,American Bittern,1
+US-WA,2026-08-07,American Coot,1
+US-WA,2026-08-07,American Crow,16
+US-WA,2026-08-07,American Goldfinch,15
+US-WA,2026-08-07,American Kestrel,1
+US-WA,2026-08-07,American Robin,1
+US-WA,2026-08-07,Anna's Hummingbird,3
+US-WA,2026-08-07,Bald Eagle,1
+US-WA,2026-08-07,Barn Swallow,12
+US-WA,2026-08-07,Belted Kingfisher,2
+US-WA,2026-08-07,Bewick's Wren,2
+US-WA,2026-08-07,Black-capped Chickadee,6
+US-WA,2026-08-07,Brown-headed Cowbird,3
+US-WA,2026-08-07,Bushtit,5
+US-WA,2026-08-07,California Scrub-Jay,3
+US-WA,2026-08-07,Canada Goose,12
+US-WA,2026-08-07,Common Merganser,1
+US-WA,2026-08-07,Common Yellowthroat,1
+US-WA,2026-08-07,Dark-eyed Junco,4
+US-WA,2026-08-07,European Starling,1
+US-WA,2026-08-07,Glaucous-winged Gull,1
+US-WA,2026-08-07,Great Blue Heron,1
+US-WA,2026-08-07,House Finch,2
+US-WA,2026-08-07,Mallard,12
+US-WA,2026-08-07,Northern Flicker,3
+US-WA,2026-08-07,Northern Harrier,1
+US-WA,2026-08-07,Osprey,2
+US-WA,2026-08-07,Pied-billed Grebe,3
+US-WA,2026-08-07,Red-breasted Nuthatch,1
+US-WA,2026-08-07,Red-winged Blackbird,4
+US-WA,2026-08-07,Rock Pigeon (Feral Pigeon),3
+US-WA,2026-08-07,Song Sparrow,3
+US-WA,2026-08-07,Steller's Jay,2
+US-WA,2026-08-07,Wood Duck,1
+US-WA,2026-08-13,American Coot,3
+US-WA,2026-08-13,American Crow,5
+US-WA,2026-08-13,Barn Swallow,2
+US-WA,2026-08-13,Belted Kingfisher,2
+US-WA,2026-08-13,Canada Goose,16
+US-WA,2026-08-13,Cooper's Hawk,1
+US-WA,2026-08-13,Great Blue Heron,4
+US-WA,2026-08-13,Green Heron,2
+US-WA,2026-08-13,House Finch,1
+US-WA,2026-08-13,Mallard,40
+US-WA,2026-08-13,Red-winged Blackbird,1
+US-WA,2026-08-13,Rock Pigeon (Feral Pigeon),1
+US-WA,2026-08-13,Wood Duck,10
+US-WA,2026-08-16,American Crow,50
+US-WA,2026-08-16,Pileated Woodpecker,1
+US-WA,2026-08-17,Common Raven,2
+US-WA,2026-08-17,Dark-eyed Junco,1
+US-WA,2026-08-17,Sooty Grouse,4
+US-WA,2026-08-17,Vaux's Swift,2
+US-WA,2026-08-18,American Dipper,1
+US-WA,2026-08-18,Belted Kingfisher,1
+US-WA,2026-08-18,Canada Jay,5
+US-WA,2026-08-18,Common Raven,1
+US-WA,2026-08-18,Northern Pygmy-Owl,1

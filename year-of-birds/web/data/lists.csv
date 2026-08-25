@@ -1,0 +1,292 @@
+state,name,position
+US-WA,Hooded Merganser,1
+US-WA,Common Merganser,2
+US-WA,Double-crested Cormorant,3
+US-WA,American Crow,4
+US-WA,Varied Thrush,5
+US-WA,Dark-eyed Junco,6
+US-WA,Song Sparrow,7
+US-WA,Trumpeter Swan,8
+US-WA,Wood Duck,9
+US-WA,Gadwall,10
+US-WA,Mallard,11
+US-WA,Green-winged Teal,12
+US-WA,Ring-necked Duck,13
+US-WA,Bufflehead,14
+US-WA,Anna's Hummingbird,15
+US-WA,American Coot,16
+US-WA,Killdeer,17
+US-WA,Wilson's Snipe,18
+US-WA,Pied-billed Grebe,19
+US-WA,Great Blue Heron,20
+US-WA,Cooper's Hawk,21
+US-WA,Bald Eagle,22
+US-WA,Northern Flicker,23
+US-WA,Marsh Wren,24
+US-WA,Golden-crowned Sparrow,25
+US-WA,Red-winged Blackbird,26
+US-WA,Canada Goose,27
+US-WA,Rock Pigeon (Feral Pigeon),28
+US-WA,Black-capped Chickadee,29
+US-WA,American Wigeon,30
+US-WA,Surf Scoter,31
+US-WA,Common Goldeneye,32
+US-WA,Glaucous-winged Gull,33
+US-WA,Bushtit,34
+US-WA,Red-tailed Hawk,35
+US-WA,American Robin,36
+US-WA,Lesser Scaup,37
+US-WA,Belted Kingfisher,38
+US-WA,European Starling,39
+US-WA,Spotted Towhee,40
+US-WA,Brant,41
+US-WA,Red-breasted Merganser,42
+US-WA,Pigeon Guillemot,43
+US-WA,Ring-billed Gull,44
+US-WA,Horned Grebe,45
+US-WA,Red-necked Grebe,46
+US-WA,Pacific Loon,47
+US-WA,Pelagic Cormorant,48
+US-WA,Steller's Jay,49
+US-WA,Chestnut-backed Chickadee,50
+US-WA,Barrow's Goldeneye,51
+US-WA,Brown Creeper,52
+US-WA,Northern Shoveler,53
+US-WA,Red-breasted Nuthatch,54
+US-WA,Common Raven,55
+US-WA,Black Scoter,56
+US-WA,House Finch,57
+US-WA,Northern Harrier,58
+US-WA,Short-eared Owl,59
+US-WA,Mourning Dove,60
+US-WA,Long-billed Dowitcher,61
+US-WA,Dunlin,62
+US-WA,Snow Goose,63
+US-WA,Northern Pintail,64
+US-WA,Downy Woodpecker,65
+US-WA,Black Phoebe,66
+US-WA,Ruby-crowned Kinglet,67
+US-WA,Bewick's Wren,68
+US-WA,Yellow-rumped Warbler,69
+US-WA,California Scrub-Jay,70
+US-WA,American Goldfinch,71
+US-WA,White-crowned Sparrow,72
+US-WA,Redhead,73
+US-WA,Greater Scaup,74
+US-WA,Short-billed Gull,75
+US-WA,House Sparrow,76
+US-WA,Eurasian Wigeon,77
+US-WA,Golden-crowned Kinglet,78
+US-WA,Pacific Wren,79
+US-WA,California Gull,80
+US-WA,Harlequin Duck,81
+US-WA,Townsend's Warbler,82
+US-WA,Fox Sparrow,83
+US-WA,Cinnamon Teal,84
+US-WA,Ruddy Duck,85
+US-WA,Eurasian Collared-Dove,86
+US-WA,Greater Yellowlegs,87
+US-WA,Tree Swallow,88
+US-WA,Green Heron,89
+US-WA,Pileated Woodpecker,90
+US-WA,Barn Swallow,91
+US-WA,Hairy Woodpecker,92
+US-WA,Horned Lark,93
+US-WA,Mountain Bluebird,94
+US-WA,American Kestrel,95
+US-WA,Black-billed Magpie,96
+US-WA,Burrowing Owl,97
+US-WA,Western Meadowlark,98
+US-WA,Sandhill Crane,99
+US-WA,Say's Phoebe,100
+US-WA,Ring-necked Pheasant,101
+US-WA,Great Horned Owl,102
+US-WA,California Quail,103
+US-WA,Black-crowned Night Heron,104
+US-WA,Brown-headed Cowbird,105
+US-WA,Canyon Wren,106
+US-WA,Yellow-headed Blackbird,107
+US-WA,Tricolored Blackbird,108
+US-WA,American White Pelican,109
+US-WA,Violet-green Swallow,110
+US-WA,Long-billed Curlew,111
+US-WA,Brewer's Blackbird,112
+US-WA,Chukar,113
+US-WA,Loggerhead Shrike,114
+US-WA,Osprey,115
+US-WA,Band-tailed Pigeon,116
+US-WA,Savannah Sparrow,117
+US-WA,Lincoln's Sparrow,118
+US-WA,Black-bellied Plover,119
+US-WA,Orange-crowned Warbler,120
+US-WA,White-winged Scoter,121
+US-WA,Black Oystercatcher,122
+US-WA,Hudsonian Whimbrel,123
+US-WA,Caspian Tern,124
+US-WA,Rhinoceros Auklet,125
+US-WA,Marbled Murrelet,126
+US-WA,Common Murre,127
+US-WA,Red Crossbill,128
+US-WA,Black Turnstone,129
+US-WA,Spotted Sandpiper,130
+US-WA,Common Loon,131
+US-WA,Northern Rough-winged Swallow,132
+US-WA,Barred Owl,133
+US-WA,Long-tailed Duck,134
+US-WA,Short-billed Dowitcher,135
+US-WA,Surfbird,136
+US-WA,Sanderling,137
+US-WA,Western Grebe,138
+US-WA,Brandt's Cormorant,139
+US-WA,Purple Finch,140
+US-WA,Rufous Hummingbird,141
+US-WA,Red-throated Loon,142
+US-WA,Least Sandpiper,143
+US-WA,Western Sandpiper,144
+US-WA,Purple Martin,145
+US-WA,Common Yellowthroat,146
+US-WA,Turkey Vulture,147
+US-WA,Greater White-fronted Goose,148
+US-WA,Cliff Swallow,149
+US-WA,Cackling Goose,150
+US-WA,Semipalmated Plover,151
+US-WA,Red Knot,152
+US-WA,Marbled Godwit,153
+US-WA,Brown Pelican,154
+US-WA,Blue-winged Teal,155
+US-WA,Ruddy Turnstone,156
+US-WA,Western Gull,157
+US-WA,Bonaparte's Gull,158
+US-WA,Great Egret,159
+US-WA,Peregrine Falcon,160
+US-WA,Snowy Plover,161
+US-WA,Western Flycatcher,162
+US-WA,Wilson's Warbler,163
+US-WA,American Bittern,164
+US-WA,Virginia Rail,165
+US-WA,Northern Yellow Warbler,166
+US-WA,Vaux's Swift,167
+US-WA,Cedar Waxwing,168
+US-WA,Western Wood-Pewee,169
+US-WA,Western Warbling Vireo,170
+US-WA,Chipping Sparrow,171
+US-WA,Western Kingbird,172
+US-WA,Bullock's Oriole,173
+US-WA,Lazuli Bunting,174
+US-WA,Willow Flycatcher,175
+US-WA,Tufted Puffin,176
+US-WA,Horned Puffin,177
+US-WA,Red-breasted Sapsucker,178
+US-WA,Western Tanager,179
+US-WA,Rock Wren,180
+US-WA,Swainson's Thrush,181
+US-WA,Bank Swallow,182
+US-WA,Black-headed Grosbeak,183
+US-WA,American Dipper,184
+US-WA,Canada Jay,185
+US-WA,Clark's Nutcracker,186
+US-WA,Mountain Chickadee,187
+US-WA,Pine Siskin,188
+US-WA,Hermit Thrush,189
+US-WA,Heermann's Gull,190
+US-WA,Olive-sided Flycatcher,191
+US-WA,MacGillivray's Warbler,192
+US-WA,Wandering Tattler,193
+US-WA,Sooty Grouse,194
+US-WA,Northern Pygmy-Owl,195
+US-CA,Ring-billed Gull,1
+US-CA,American Robin,2
+US-CA,Cedar Waxwing,3
+US-CA,Lesser Goldfinch,4
+US-CA,Brewer's Blackbird,5
+US-CA,Rock Pigeon (Feral Pigeon),6
+US-CA,Anna's Hummingbird,7
+US-CA,Black Oystercatcher,8
+US-CA,Western Gull,9
+US-CA,Caspian Tern,10
+US-CA,Double-crested Cormorant,11
+US-CA,Black-crowned Night Heron,12
+US-CA,Snowy Egret,13
+US-CA,Great Blue Heron,14
+US-CA,Brown Pelican,15
+US-CA,Black Phoebe,16
+US-CA,American Crow,17
+US-CA,Barn Swallow,18
+US-CA,European Starling,19
+US-CA,House Finch,20
+US-CA,White-crowned Sparrow,21
+US-CA,Savannah Sparrow,22
+US-CA,Song Sparrow,23
+US-CA,California Towhee,24
+US-CA,Red-winged Blackbird,25
+US-CA,Orange-crowned Warbler,26
+US-CA,Canada Goose,27
+US-CA,Mallard,28
+US-CA,Rock Pigeon,29
+US-CA,American Avocet,30
+US-CA,Black-bellied Plover,31
+US-CA,Killdeer,32
+US-CA,Long-billed Curlew,33
+US-CA,Marbled Godwit,34
+US-CA,Tree Swallow,35
+US-CA,Cliff Swallow,36
+US-CA,Bushtit,37
+US-CA,Northern Mockingbird,38
+US-CA,House Sparrow,39
+US-CA,Spotted Towhee,40
+US-CA,Brown-headed Cowbird,41
+US-HI,Hawaiian Goose,1
+US-HI,Spotted Dove,2
+US-HI,Zebra Dove,3
+US-HI,Pacific Golden-Plover,4
+US-HI,Western Cattle-Egret,5
+US-HI,Warbling White-eye,6
+US-HI,Common Myna,7
+US-HI,White-rumped Shama,8
+US-HI,House Sparrow,9
+US-HI,House Finch,10
+US-HI,Northern Cardinal,11
+US-HI,Red-crested Cardinal,12
+US-HI,Scaly-breasted Munia,13
+US-HI,Java Sparrow,14
+US-HI,Rock Pigeon (Feral Pigeon),15
+US-HI,Red-tailed Tropicbird,16
+US-HI,Laysan Albatross,17
+US-HI,Wedge-tailed Shearwater,18
+US-HI,Red-footed Booby,19
+US-HI,Common Gallinule,20
+US-HI,White-tailed Tropicbird,21
+US-HI,Chestnut Munia,22
+US-HI,Black-necked Stilt,23
+US-HI,American Barn Owl,24
+US-HI,Hawaiian Duck,25
+US-HI,Hawaiian Coot,26
+US-HI,Wandering Tattler,27
+US-HI,Ruddy Turnstone,28
+US-HI,Sanderling,29
+US-HI,Dunlin,30
+US-HI,Great Frigatebird,31
+US-HI,Black-crowned Night Heron,32
+US-HI,Northern Mockingbird,33
+US-HI,Rose-ringed Parakeet,34
+US-HI,Brown Booby,35
+US-HI,Saffron Finch,36
+US-HI,Erckel's Spurfowl,37
+US-OR,Canada Jay,1
+US-OR,Clark's Nutcracker,2
+US-OR,Cassin's Finch,3
+US-OR,Western Tanager,4
+US-OR,Mallard,5
+US-OR,California Quail,6
+US-OR,White-throated Swift,7
+US-OR,Turkey Vulture,8
+US-OR,Osprey,9
+US-OR,Red-tailed Hawk,10
+US-OR,Say's Phoebe,11
+US-OR,Western Kingbird,12
+US-OR,Violet-green Swallow,13
+US-OR,American Robin,14
+US-OR,Evening Grosbeak,15
+US-OR,Pine Siskin,16
+US-OR,Bullock's Oriole,17
+US-OR,Lazuli Bunting,18
